@@ -41,12 +41,15 @@ jobs:
           conda list
 
       - name: Update data (short)
-        if: ${{ github.event_name == 'pull_request' }}
+        if: ${{ github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'}}
         run: snakemake --config stages="skip-refs"
 
       - name: Update data (full)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
-        run: snakemake
+        run: |
+          which Rscript;
+          conda info;
+          snakemake
 
       - name: Open pull request with updated files
         if: ${{ !(github.event_name == 'pull_request') }}
