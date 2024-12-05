@@ -44,9 +44,6 @@ jobs:
         if: ${{ github.event_name == 'pull_request' }}
         run: snakemake --config stages="skip-refs"
 
-      - name: SSH debug
-        uses: mxschmitt/action-tmate@v3
-        
       - name: Update data (full)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: snakemake
