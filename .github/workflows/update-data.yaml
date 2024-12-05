@@ -25,6 +25,9 @@ jobs:
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
 
+      - name: SSH debug
+        uses: mxschmitt/action-tmate@v3
+
       - name: Checkout code
         uses: actions/checkout@v4
 
