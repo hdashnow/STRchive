@@ -7,6 +7,7 @@ on:
       - "data/**"
       - "scripts/**"
       - "workflow/**"
+      - ".github/workflows/**"
   schedule:
     - cron: "0 0 1 * *"
   workflow_dispatch:
@@ -14,6 +15,11 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    strategy:
+      fail-fast: false
 
     steps:
       - name: Debug dump
@@ -22,22 +28,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Miniconda environment
+        uses: conda-incubator/setup-miniconda@v3
         with:
-          python-version: "3.12"
-          cache-dependency-path: "**/environment.yml"
-
-      - name: Set up Conda
-        uses: s-weigand/setup-conda@v1
-
-      - name: Activate Conda
-        run: |
-          conda env create --file scripts/environment.yml
-          conda init
-          source ~/.bashrc
-          source ~/.bash_profile
-          conda activate strchive
+          auto-update-conda: true
+          activate-environment: anaconda-client-env
+          environment-file: scripts/environment.yml
+          python-version: 3.12
+          auto-activate-base: false
+      - run: |
+          conda info
+          conda list
 
       - name: Update data (short)
         if: ${{ github.event_name == 'pull_request' }}
