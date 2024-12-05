@@ -25,9 +25,6 @@ jobs:
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
 
-      - name: SSH debug
-        uses: mxschmitt/action-tmate@v3
-
       - name: Checkout code
         uses: actions/checkout@v4
 
@@ -47,6 +44,9 @@ jobs:
         if: ${{ github.event_name == 'pull_request' }}
         run: snakemake --config stages="skip-refs"
 
+      - name: SSH debug
+        uses: mxschmitt/action-tmate@v3
+        
       - name: Update data (full)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: snakemake
