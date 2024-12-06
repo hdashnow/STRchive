@@ -47,7 +47,7 @@ jobs:
       - name: Update data (full)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: |
-          conda activate strchive;
+          conda activate /anaconda3/envs/strchive;
           snakemake
 
       - name: Open pull request with updated files
