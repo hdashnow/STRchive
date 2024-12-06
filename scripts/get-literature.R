@@ -4,7 +4,7 @@
 # More useful error messages
 options(error=traceback)
 
-use_condaenv("strchive")
+cat(.libPaths())
 
 # Install biomaRt if not already installed
 if (!requireNamespace("biomaRt", quietly = TRUE)) {
