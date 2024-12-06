@@ -6,22 +6,26 @@ options(error=traceback)
 
 cat(.libPaths())
 
-# Install biomaRt if not already installed
-if (!requireNamespace("biomaRt", quietly = TRUE)) {
-  if (!requireNamespace("BiocManager", quietly = TRUE)) {
-    install.packages("BiocManager")
-  }
-  BiocManager::install("biomaRt")
-}
+base_packages <- c("jsonlite", "dplyr", "stringr", "purrr")
+bio_packages <- c("biomaRt", "rentrez", "easyPubMed")
 
 suppressPackageStartupMessages({
-  library(jsonlite)
-  library(dplyr)
-  library(biomaRt)
-  library(rentrez)
-  library(easyPubMed)
-  library(stringr)
-  library(purrr)
+
+for (package in base_packages) {
+  if (!requireNamespace(package, quietly = TRUE)) {
+    install.packages(package)
+  }
+  library(package)
+}
+
+if (!requireNamespace("BiocManager", quietly = TRUE)) {
+    install.packages("BiocManager")
+    for (package in bio_packages) {
+      BiocManager::install(package)
+      library(package)
+    }
+}
+
 })
 
 # Check environment
