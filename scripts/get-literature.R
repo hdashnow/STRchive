@@ -4,6 +4,8 @@
 # More useful error messages
 options(error=traceback)
 
+use_condaenv("strchive")
+
 # Install biomaRt if not already installed
 if (!requireNamespace("biomaRt", quietly = TRUE)) {
   if (!requireNamespace("BiocManager", quietly = TRUE)) {
