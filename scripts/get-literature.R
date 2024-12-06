@@ -22,6 +22,11 @@ suppressPackageStartupMessages({
   library(purrr)
 })
 
+# Check environment
+message("CONDA_PREFIX (R)  : ", Sys.getenv("CONDA_PREFIX"))
+message("R_HOME (R)        : ", Sys.getenv("R_HOME"))
+message("R .libPaths()     : ", .libPaths())
+
 ### Data Setup
 args <- commandArgs(trailingOnly = TRUE)
 
