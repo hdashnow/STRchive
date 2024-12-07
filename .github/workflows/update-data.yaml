@@ -39,6 +39,20 @@ jobs:
       - run: |
           conda info
 
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install packages
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::jsonlite
+            any::dplyr
+            any::rentrez
+            any::easypubmed
+            any::stringr
+            any::purrr
+
       - name: Update data (short)
         if: ${{ github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'}}
         run: snakemake --config stages="skip-refs"
@@ -46,7 +60,6 @@ jobs:
       - name: Update data (full)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: |
-          conda activate strchive;
           type Rscript;
           snakemake
 
