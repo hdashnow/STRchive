@@ -55,7 +55,7 @@ jobs:
             // add version to artifact filenames
             for (const file of globSync("**/STRchive-*.json"))
               renameSync(file, file.replace(".json", `_v${newVersion}.json`));
-            for (const file of globSync("**/STRchive-disease-loci*.bed"))
+            for (const file of globSync("**/*STRchive-disease-loci*.bed"))
               renameSync(file, file.replace("-loci", `-loci_v${newVersion}_`));
 
             return newVersion;
