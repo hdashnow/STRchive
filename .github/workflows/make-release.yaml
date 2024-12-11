@@ -72,4 +72,4 @@ jobs:
           files: |
             **/STRchive-loci*.json
             **/STRchive-citations*.json
-            **/STRchive-disease-loci*.bed
+            **/*STRchive-disease-loci*.bed
