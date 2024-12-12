@@ -46,13 +46,15 @@ jobs:
       #   #if: ${{ github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'}}
       #   run: snakemake --config stages="skip-refs"
 
-      - name: SSH debug
-        uses: mxschmitt/action-tmate@v3
+      # - name: SSH debug
+      #   uses: mxschmitt/action-tmate@v3
 
       - name: Find new literature (intermediate)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: |
-          type Rscript;
+          conda init
+          source /home/runner/.bashrc
+          conda activate strchive
           snakemake --config stages="new-refs"
 
       - name: Open pull request with updated files
