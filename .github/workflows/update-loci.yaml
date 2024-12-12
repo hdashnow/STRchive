@@ -4,8 +4,6 @@ permissions:
   contents: write
 
 on:
-  push:
-    branches: main, ci-r
   pull_request:
     branches: main
     paths:
@@ -13,6 +11,8 @@ on:
       - "scripts/**"
       - "workflow/**"
       - ".github/workflows/**"
+  schedule:
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
@@ -42,12 +42,12 @@ jobs:
       - run: |
           conda info
 
-      # - name: Check loci and update bed files (short)
-      #   #if: ${{ github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'}}
-      #   run: snakemake --config stages="skip-refs"
+      - name: Check loci and update bed files (short)
+        #if: ${{ github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'}}
+        run: snakemake --config stages="skip-refs"
 
-      # - name: SSH debug
-      #   uses: mxschmitt/action-tmate@v3
+      - name: SSH debug
+        uses: mxschmitt/action-tmate@v3
 
       - name: Find new literature (intermediate)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
