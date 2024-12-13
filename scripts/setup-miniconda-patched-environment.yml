@@ -9,7 +9,9 @@ dependencies:
   - defopt
   - snakemake
   - jsbeautifier
+  - zlib
   - r-essentials
+  - r-base
   - r-jsonlite
   - r-dplyr
   - r-rentrez
