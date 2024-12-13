@@ -12,7 +12,7 @@ on:
       - "workflow/**"
       - ".github/workflows/**"
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 0 1 * *" # Run monthly
   workflow_dispatch:
 
 jobs:
@@ -43,29 +43,38 @@ jobs:
           conda info
 
       - name: Check loci and update bed files (short)
-        #if: ${{ github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'}}
+        if: ${{ github.event_name == 'pull_request'}}
         run: snakemake --config stages="skip-refs"
 
-      - name: SSH debug
-        uses: mxschmitt/action-tmate@v3
+      # Enable this step to open an SSH session for debugging
+      # - name: SSH debug
+      #   uses: mxschmitt/action-tmate@v3
 
       - name: Find new literature (intermediate)
-        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
+        if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           conda init
           source /home/runner/.bashrc
           conda activate strchive
           snakemake --config stages="new-refs"
 
+      - name: Update all literature (long)
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          conda init
+          source /home/runner/.bashrc
+          conda activate strchive
+          snakemake
+
       - name: Open pull request with updated files
-        if: ${{ !(github.event_name == 'pull_request') }}
+        if: ${{ !(github.event_name == 'pull_request') || github.event_name == 'schedule' }}
         uses: peter-evans/create-pull-request@v7
         with:
           branch: update-data
           title: Update data
 
       - name: Commit updated files to current pull request
-        if: ${{ github.event_name == 'pull_request' }}
+        if: ${{ github.event_name == 'pull_request' || github.event_name == 'schedule' }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update data
