@@ -5,19 +5,19 @@
 options(error=traceback)
 
 # Install biomaRt if not already installed
-tryCatch(
+tryCatch({
   if (!requireNamespace("biomaRt", quietly = TRUE)) {
     if (!requireNamespace("BiocManager", quietly = TRUE)) {
       install.packages("BiocManager", ask = FALSE)
     }
-    BiocManager::install("biomaRt")
+    BiocManager::install("biomaRt", ask = FALSE)
   }
-), error = function(e) {
+}, error = function(e) {
   cat("Error installing biomaRt package.\n", file=stderr())
   quit(status = 1)
-}
+})
 
-
+quit()
 
 
 suppressPackageStartupMessages({
