@@ -1,4 +1,100 @@
 
+PMID- 39679849
+OWN - NLM
+STAT- Publisher
+LR  - 20241216
+IS  - 1460-2083 (Electronic)
+IS  - 0964-6906 (Linking)
+DP  - 2024 Dec 16
+TI  - Identification of ZNF850 as a novel CTG repeat expansion-related gene in myotonic 
+      dystrophy type 1 patient-derived iPSCs.
+LID - ddae186 [pii]
+LID - 10.1093/hmg/ddae186 [doi]
+AB  - Myotonic dystrophy type 1 (DM1) is a dominantly inherited multi-system disease 
+      caused by expanded CTG repeats in the 3' untranslated region of the dystrophia 
+      myotonica protein kinase (DMPK) gene. Similar to other repeat disorders, the 
+      expanded trinucleotide repeat is unstable and demonstrates a tendency to increase 
+      repeat size with age in affected tissues. DNA mismatch repair system is 
+      implicated in somatic instability. It has been demonstrated that DM1 
+      patient-derived induced pluripotent stem cells (DM1-iPSCs) show repeat 
+      instability, in which involvement of mismatch repair proteins has been suggested. 
+      Here we identified ZNF850 as a novel CTG repeat expansion-related molecule in 
+      DM1-iPSCs. ZNF850 was downregulated in a DM1-iPSC clone whose CTG repeat is 
+      exceptionally stable. We found that RNAi-mediated ZNF850 downregulation in 
+      DM1-iPSCs significantly reduced the repeat expansion and resulting instability. 
+      In adult skeletal muscle tissue of DM1 patients, ZNF850 expression levels were 
+      positively correlated with the repeat size. Furthermore, we found that ZNF850 
+      protein can bind to the expanded CTG repeat sequence, and is located in proximity 
+      to MutSbeta components. These results suggest that ZNF850 might play a role in 
+      repeat instability in DM1 by recruiting MutSbeta to the repeat sequence.
+CI  - (c) The Author(s) 2024. Published by Oxford University Press. All rights reserved. 
+      For Permissions, please email: journals.permissions@oup.com.
+FAU - Kamon, Masayoshi
+AU  - Kamon M
+AUID- ORCID: 0000-0002-2895-3255
+AD  - Department of Peripheral Nervous System Research, National Institute of 
+      Neuroscience, National Center of Neurology and Psychiatry, 4-1-1, Ogawa-Higashi, 
+      Kodaira, Tokyo 187-8502, Japan.
+AD  - Department of Developmental Biology and Functional Genomics, Ehime University 
+      School of Medicine, 454 Shitsukawa, Toon, Ehime 791-0295, Japan.
+FAU - Wakatsuki, Shuji
+AU  - Wakatsuki S
+AD  - Department of Peripheral Nervous System Research, National Institute of 
+      Neuroscience, National Center of Neurology and Psychiatry, 4-1-1, Ogawa-Higashi, 
+      Kodaira, Tokyo 187-8502, Japan.
+FAU - Nakamori, Masayuki
+AU  - Nakamori M
+AUID- ORCID: 0000-0003-4714-3044
+AD  - Department of Neurology, Osaka University Graduate School of Medicine, 2-2 
+      Yamadaoka, Suita, Osaka 565-0871, Japan.
+FAU - Takahashi, Masanori P
+AU  - Takahashi MP
+AD  - Clinical Neurophysiology, Department of Clinical Laboratory and Biomedical 
+      Sciences, Osaka University Graduate School of Medicine, 1-7 Yamadaoka, Suita, 
+      Osaka 565-0871, Japan.
+FAU - Mori-Yoshimura, Madoka
+AU  - Mori-Yoshimura M
+AD  - Department of Neurology, National Center Hospital, National Center of Neurology 
+      and Psychiatry, 4-1-1 Ogawa-higashi, Kodaira, Tokyo 187-8551, Japan.
+FAU - Komaki, Hirofumi
+AU  - Komaki H
+AD  - Translational Medical Center, National Center of Neurology and Psychiatry, 4-1-1 
+      Ogawa-higashi, Kodaira, Tokyo 187-8551, Japan.
+FAU - Araki, Toshiyuki
+AU  - Araki T
+AUID- ORCID: 0000-0003-3625-2042
+AD  - Department of Peripheral Nervous System Research, National Institute of 
+      Neuroscience, National Center of Neurology and Psychiatry, 4-1-1, Ogawa-Higashi, 
+      Kodaira, Tokyo 187-8502, Japan.
+LA  - eng
+GR  - JSPS KAKENHI/
+GR  - Japan Agency for Medical Research and Development/
+PT  - Journal Article
+DEP - 20241216
+PL  - England
+TA  - Hum Mol Genet
+JT  - Human molecular genetics
+JID - 9208958
+SB  - IM
+OTO - NOTNLM
+OT  - induced pluripotent stem cells
+OT  - mismatch repair
+OT  - myotonic dystrophy type 1
+OT  - triplet repeat
+EDAT- 2024/12/16 12:27
+MHDA- 2024/12/16 12:27
+CRDT- 2024/12/16 09:36
+PHST- 2024/08/01 00:00 [received]
+PHST- 2024/10/25 00:00 [revised]
+PHST- 2024/12/08 00:00 [accepted]
+PHST- 2024/12/16 12:27 [medline]
+PHST- 2024/12/16 12:27 [pubmed]
+PHST- 2024/12/16 09:36 [entrez]
+AID - 7925495 [pii]
+AID - 10.1093/hmg/ddae186 [doi]
+PST - aheadofprint
+SO  - Hum Mol Genet. 2024 Dec 16:ddae186. doi: 10.1093/hmg/ddae186.
+
 PMID- 39492694
 OWN - NLM
 STAT- Publisher
