@@ -2,7 +2,7 @@
 PMID- 39649105
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241210
+LR  - 20241214
 IS  - 1662-5099 (Print)
 IS  - 1662-5099 (Electronic)
 IS  - 1662-5099 (Linking)
@@ -68,6 +68,8 @@ AD  - Department of Neurobiology and Behavior, University of California, Irvine,
 AD  - UCI Center for Neurotherapeutics, University of California, Irvine, Irvine, CA, 
       United States.
 LA  - eng
+GR  - R01 EY014061/EY/NEI NIH HHS/United States
+GR  - R35 NS122140/NS/NINDS NIH HHS/United States
 PT  - Journal Article
 DEP - 20241122
 PL  - Switzerland
@@ -3838,6 +3840,7 @@ AD  - School of Medicine and Pharmacy of Marrakech, Cadi Ayyad University, Marra
       Morocco.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20210212
 PL  - Uganda
 TA  - Pan Afr Med J

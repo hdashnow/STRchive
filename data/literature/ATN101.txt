@@ -1,4 +1,59 @@
 
+PMID- 39742457
+OWN - NLM
+STAT- Publisher
+LR  - 20250101
+IS  - 1465-3656 (Electronic)
+IS  - 1355-4794 (Linking)
+DP  - 2025 Jan 1
+TI  - Dentatorubral pallidoluysian atrophy with cognitive impairment, epilepsy, 
+      movement disorders, and psychosis - a case.
+PG  - 1-3
+LID - 10.1080/13554794.2024.2447116 [doi]
+AB  - Dentatorubral-Pallidoluysian Atrophy (DRPLA) is a rare autosomal dominant 
+      neurodegenerative disorder caused by CAG repeat expansion in the ATN1 gene, 
+      characterized by diverse neurological and psychiatric symptoms. We report a 
+      23-year-old patient with juvenile-onset seizures, cognitive decline, and ataxia, 
+      progressing to psychosis by age 31. Initial brain MRI showed minimal cerebellar 
+      atrophy, with prominent atrophy evident on follow-up imaging. Genetic testing 
+      confirmed DRPLA with expanded CAG repeats. Family history revealed anticipation, 
+      with varying presentations across generations. This case highlights DRPLA's 
+      complexity, diagnostic challenges due to symptom overlap, and the critical role 
+      of genetic testing in identifying this rare disorder.
+FAU - Kim, Byong-Kyu
+AU  - Kim BK
+AD  - Division of Cardiology, Department of Internal Medicine, Dongguk University 
+      College of Medicine, Dongguk University Gyeongju Hospital, Gyeongju, Republic of 
+      Korea.
+FAU - Park, Jin-Mo
+AU  - Park JM
+AUID- ORCID: 0000-0001-6498-6882
+AD  - Department of Neurology, Dongguk University College of Medicine, Dongguk 
+      University Gyeongju Hospital, Gyeongju, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20250101
+PL  - England
+TA  - Neurocase
+JT  - Neurocase
+JID - 9511374
+SB  - IM
+OTO - NOTNLM
+OT  - ATN1
+OT  - DRPLA
+OT  - ataxia
+OT  - epilepsy
+OT  - psychosis
+EDAT- 2025/01/02 00:20
+MHDA- 2025/01/02 00:20
+CRDT- 2025/01/01 12:52
+PHST- 2025/01/02 00:20 [medline]
+PHST- 2025/01/02 00:20 [pubmed]
+PHST- 2025/01/01 12:52 [entrez]
+AID - 10.1080/13554794.2024.2447116 [doi]
+PST - aheadofprint
+SO  - Neurocase. 2025 Jan 1:1-3. doi: 10.1080/13554794.2024.2447116.
+
 PMID- 39224955
 OWN - NLM
 STAT- MEDLINE
@@ -9589,7 +9644,7 @@ PMID- 10486315
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20001002
-LR  - 20240508
+LR  - 20250104
 IS  - 0002-9297 (Print)
 IS  - 1537-6605 (Electronic)
 IS  - 0002-9297 (Linking)

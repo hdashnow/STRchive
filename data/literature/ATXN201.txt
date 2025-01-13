@@ -8194,6 +8194,7 @@ AD  - Department of Neurology, National Institute of Mental Health & Neuroscienc
       Hosur Road, Bengaluru-560029, Karnataka, India.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20210804
 PL  - England
 TA  - Tremor Other Hyperkinet Mov (N Y)
@@ -15158,6 +15159,7 @@ AD  - 1Department of Neurology, University of Maryland School of Medicine, Balti
       MD USA. ISNI: 0000 0001 2175 4264. GRID: grid.411024.2
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20180813
 PL  - England
 TA  - J Clin Mov Disord

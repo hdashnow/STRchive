@@ -1,4 +1,339 @@
 
+PMID- 39755011
+OWN - NLM
+STAT- Publisher
+LR  - 20250104
+IS  - 1876-7753 (Electronic)
+IS  - 1873-5061 (Linking)
+VI  - 83
+DP  - 2024 Dec 30
+TI  - Generation of an induced pluripotent stem cell line from a Kennedy Disease 
+      patient with AR mutation.
+PG  - 103649
+LID - S1873-5061(24)00347-7 [pii]
+LID - 10.1016/j.scr.2024.103649 [doi]
+AB  - A human induced pluripotent stem cell (iPSC) line was generated from patient with 
+      Kennedy Disease (KD), who carried the CAG repeat expansion mutation in AR gene. 
+      Peripheral blood mononuclear cells (PBMCs) were reprogrammed using 
+      non-integrating delivery of KFL4, OCT4, SOX2, BCL-XL and c-MYC. The iPSC line 
+      expresses pluripotency markers, displays a normal karyotype, and is capable of 
+      differentiate into three germ layers in vitro. This iPSC line represents a 
+      valuable cell model for studing KD in humans.
+CI  - Copyright (c) 2024. Published by Elsevier B.V.
+FAU - Zhang, Meng
+AU  - Zhang M
+AD  - Emergency and Critical Care Department, University of Health and Rehabilitation 
+      Sciences (Qingdao Central Hospital), Qingdao 266042, China.
+FAU - Liu, Rui
+AU  - Liu R
+AD  - Emergency and Critical Care Department, University of Health and Rehabilitation 
+      Sciences (Qingdao Central Hospital), Qingdao 266042, China.
+FAU - Sun, Pengpeng
+AU  - Sun P
+AD  - Emergency and Critical Care Department, University of Health and Rehabilitation 
+      Sciences (Qingdao Central Hospital), Qingdao 266042, China.
+FAU - Zhang, Chengsen
+AU  - Zhang C
+AD  - Emergency and Critical Care Department, University of Health and Rehabilitation 
+      Sciences (Qingdao Central Hospital), Qingdao 266042, China.
+FAU - Wang, Jingdong
+AU  - Wang J
+AD  - Emergency and Critical Care Department, University of Health and Rehabilitation 
+      Sciences (Qingdao Central Hospital), Qingdao 266042, China.
+FAU - Li, Changjiang
+AU  - Li C
+AD  - Emergency and Critical Care Department, University of Health and Rehabilitation 
+      Sciences (Qingdao Central Hospital), Qingdao 266042, China. Electronic address: 
+      qdzhangmeng297@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20241230
+PL  - England
+TA  - Stem Cell Res
+JT  - Stem cell research
+JID - 101316957
+SB  - IM
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/01/05 06:13
+MHDA- 2025/01/05 06:13
+CRDT- 2025/01/04 18:09
+PHST- 2024/08/26 00:00 [received]
+PHST- 2024/12/27 00:00 [revised]
+PHST- 2024/12/29 00:00 [accepted]
+PHST- 2025/01/05 06:13 [medline]
+PHST- 2025/01/05 06:13 [pubmed]
+PHST- 2025/01/04 18:09 [entrez]
+AID - S1873-5061(24)00347-7 [pii]
+AID - 10.1016/j.scr.2024.103649 [doi]
+PST - aheadofprint
+SO  - Stem Cell Res. 2024 Dec 30;83:103649. doi: 10.1016/j.scr.2024.103649.
+
+PMID- 39729861
+OWN - NLM
+STAT- Publisher
+LR  - 20241227
+IS  - 1876-7753 (Electronic)
+IS  - 1873-5061 (Linking)
+VI  - 82
+DP  - 2024 Dec 25
+TI  - Generation of an induced pluripotent stem cell (iPSC) line (INNDSUi007-A) from a 
+      patient with Kennedy disease.
+PG  - 103638
+LID - S1873-5061(24)00336-2 [pii]
+LID - 10.1016/j.scr.2024.103638 [doi]
+AB  - Abnormal trinucleotide CAG repeat expansions in exon 1 of the Androgen Receptor 
+      (AR) gene has been identified as the cause of Kennedy disease (KD). We generated 
+      and characterized a human induced pluripotent stem cell (iPSC) line from 
+      peripheral blood mononuclear cells (PBMC) of a patient with genetically confirmed 
+      KD. The pluripotency of these iPSCs was verified by the expression of several 
+      pluripotency markers at both RNA and protein levels, as well as their capability 
+      to differentiate into all three germ layers.
+CI  - Copyright (c) 2024 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Li, Bo
+AU  - Li B
+AD  - Department of Neurosurgery, Affiliated Hospital of Jining Medical University, 
+      Jining, Shandong, China.
+FAU - Yang, Yitong
+AU  - Yang Y
+AD  - School of Nursing, Jining Medical University, Jining, Shandong, China.
+FAU - Wang, Yingxin
+AU  - Wang Y
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Shan, Didi
+AU  - Shan D
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Li, Jianing
+AU  - Li J
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Wang, Hongxu
+AU  - Wang H
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Sun, Xiaohan
+AU  - Sun X
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Tang, Yao
+AU  - Tang Y
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Jiao, Yichang
+AU  - Jiao Y
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Ji, Xinbo
+AU  - Ji X
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Zhan, Zexin
+AU  - Zhan Z
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Kong, Bo
+AU  - Kong B
+AD  - Department of Neurosurgery, Affiliated Hospital of Jining Medical University, 
+      Jining, Shandong, China.
+FAU - Gao, Bo
+AU  - Gao B
+AD  - Department of Neurosurgery, Affiliated Hospital of Jining Medical University, 
+      Jining, Shandong, China.
+FAU - Wang, Yu
+AU  - Wang Y
+AD  - Prenatal Diagnostic Center of Obstetrics and Department of Gynecology, Qilu 
+      Hospital of Shandong University, Jinan, Shandong, China.
+FAU - Sun, Ping
+AU  - Sun P
+AD  - Prenatal Diagnostic Center of Obstetrics and Department of Gynecology, Qilu 
+      Hospital of Shandong University, Jinan, Shandong, China.
+FAU - Liu, Fuchen
+AU  - Liu F
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China. Electronic address: 
+      Fuchen.liu@email.sdu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20241225
+PL  - England
+TA  - Stem Cell Res
+JT  - Stem cell research
+JID - 101316957
+SB  - IM
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2024/12/28 11:44
+MHDA- 2024/12/28 11:44
+CRDT- 2024/12/27 18:06
+PHST- 2024/09/24 00:00 [received]
+PHST- 2024/12/09 00:00 [revised]
+PHST- 2024/12/18 00:00 [accepted]
+PHST- 2024/12/28 11:44 [medline]
+PHST- 2024/12/28 11:44 [pubmed]
+PHST- 2024/12/27 18:06 [entrez]
+AID - S1873-5061(24)00336-2 [pii]
+AID - 10.1016/j.scr.2024.103638 [doi]
+PST - aheadofprint
+SO  - Stem Cell Res. 2024 Dec 25;82:103638. doi: 10.1016/j.scr.2024.103638.
+
+PMID- 39694906
+OWN - NLM
+STAT- Publisher
+LR  - 20241218
+IS  - 1432-5241 (Electronic)
+IS  - 0364-216X (Linking)
+DP  - 2024 Dec 18
+TI  - Enhancing Aesthetics in Bilateral DIEP Flap Breast Reconstruction: the Role of 
+      Tissue Pre-Expansion.
+LID - 10.1007/s00266-024-04610-0 [doi]
+AB  - BACKGROUND: Achieving symmetrical outcomes in bilateral autologous breast 
+      reconstruction is challenging, particularly in cases of asymmetrical recipient 
+      sites. Tissue pre-expansion is proposed to improve aesthetics by enlarging the 
+      skin envelope for refined breast shaping. This study examines its efficacy in 
+      bilateral DIEP flap reconstructions. METHODS: This study systematically evaluated 
+      43 patients that underwent bilateral DIEP flap breast reconstruction between 2004 
+      and 2021. The efficacy of tissue pre-expansion in enhancing aesthetic outcomes, 
+      patient demographics, and complications were analysed. Aesthetic outcomes were 
+      measured using the aesthetic item score (AIS). RESULTS: Patients had an average 
+      age of 48.67 years (range: 29-79) and BMI of 27.08 (range: 23-36). Of these, 
+      65.12% had undergone radiotherapy and 83.72% chemotherapy before reconstruction. 
+      Patients predominantly received secondary breast reconstruction (72.02%). 
+      Pre-expansion significantly improved breast symmetry and the overall aesthetic 
+      result (OAR) in cases of asymmetrical recipient-site conditions (3.76 vs. 3.16, 
+      p = 0.006 and 7.08 vs. 6.27, p = 0.03, respectively). There was a non-significant 
+      trend towards better breast form and volume, with no effect on scarring. For 
+      patients with symmetrical recipient-site conditions, pre-expansion did not 
+      significantly impact the aesthetic outcome. No significant differences in 
+      complication rates were observed. CONCLUSION: Tissue pre-expansion significantly 
+      enhances aesthetic outcomes of bilateral autologous breast reconstruction, 
+      notably breast symmetry and OAR, in patients with asymmetrical recipient-site 
+      conditions. However, careful patient selection and preoperative planning are 
+      essential for leveraging pre-expansion's benefits, emphasizing the importance of 
+      informed decision-making and expectation management. This 
+      publication/study investigates the efficacy of tissue pre-expansion in enhancing 
+      aesthetic outcomes for bilateral DIEP flap breast reconstructions. Detailed 
+      analysis of 43 patients that received bilateral DIEP reconstruction with and 
+      without pre-expansion. Finds significant improvements in breast symmetry and 
+      overall aesthetic rating (OAR) for patients with asymmetrical recipient-site 
+      conditions. LEVEL OF EVIDENCE III: This journal requires that authors assign a 
+      level of evidence to each article. For a full description of these Evidence-Based 
+      Medicine ratings, please refer to the Table of Contents or the online 
+      Instructions to Authors www.springer.com/00266 .
+CI  - (c) 2024. Springer Science+Business Media, LLC, part of Springer Nature and 
+      International Society of Aesthetic Plastic Surgery.
+FAU - Musmann, Robert Jonathan
+AU  - Musmann RJ
+AUID- ORCID: 0009-0000-3339-3355
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany. robert.jonathan@musmann.com.
+FAU - Andree, Christoph
+AU  - Andree C
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+AD  - Heinrich-Heine-Universitat Dusseldorf, Universitatsstrasse 1, 40225, Dusseldorf, 
+      Germany.
+FAU - Wolter, Andreas
+AU  - Wolter A
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+AD  - Universitat Witten-Herdecke, Alfred-Herrhausen-Strasse 45, 58455, Witten, Germany.
+FAU - Hagouan, Mazen
+AU  - Hagouan M
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Munder, Beatrix
+AU  - Munder B
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Janku, Dirk
+AU  - Janku D
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Daniels, Marc
+AU  - Daniels M
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+AD  - Universitat Witten-Herdecke, Alfred-Herrhausen-Strasse 45, 58455, Witten, Germany.
+FAU - Becker, Kristin
+AU  - Becker K
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Oramary, Alan
+AU  - Oramary A
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Bukowiecki, Julia
+AU  - Bukowiecki J
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Bromba, Annabelle
+AU  - Bromba A
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Stockhausen, Nora
+AU  - Stockhausen N
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+FAU - Seidenstucker, Katrin
+AU  - Seidenstucker K
+AD  - Heinrich-Heine-Universitat Dusseldorf, Universitatsstrasse 1, 40225, Dusseldorf, 
+      Germany.
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Benrath, 
+      Urdenbacher Allee 83, D-40593, Dusseldorf, Germany.
+FAU - Fertsch, Sonia
+AU  - Fertsch S
+AD  - Department of Plastic and Aesthetic Surgery, Sana Krankenhaus Gerresheim, 
+      Graulinger Strasse 120, D-40625, Dusseldorf, Germany.
+AD  - Universitat Witten-Herdecke, Alfred-Herrhausen-Strasse 45, 58455, Witten, Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20241218
+PL  - United States
+TA  - Aesthetic Plast Surg
+JT  - Aesthetic plastic surgery
+JID - 7701756
+SB  - IM
+OTO - NOTNLM
+OT  - Aesthetic outcomes
+OT  - Autologous reconstruction
+OT  - Breast reconstruction
+OT  - Breast symmetry
+OT  - DIEP flap
+OT  - Tissue pre-expansion
+COIS- Declarations. Conflicts of interest: The authors declare that they have no 
+      conflicts of interest to disclose. Ethical Approval: All procedures performed in 
+      studies involving human participants were in accordance with the ethical 
+      standards of the institutional and/or national research committee and with the 
+      1964 Helsinki Declaration and its later amendments or comparable ethical 
+      standards. Informed Consent: For this type of study, informed consent is not 
+      required.
+EDAT- 2024/12/19 00:20
+MHDA- 2024/12/19 00:20
+CRDT- 2024/12/18 23:13
+PHST- 2024/02/28 00:00 [received]
+PHST- 2024/12/01 00:00 [accepted]
+PHST- 2024/12/19 00:20 [medline]
+PHST- 2024/12/19 00:20 [pubmed]
+PHST- 2024/12/18 23:13 [entrez]
+AID - 10.1007/s00266-024-04610-0 [pii]
+AID - 10.1007/s00266-024-04610-0 [doi]
+PST - aheadofprint
+SO  - Aesthetic Plast Surg. 2024 Dec 18. doi: 10.1007/s00266-024-04610-0.
+
 PMID- 39570490
 OWN - NLM
 STAT- Publisher
@@ -966,7 +1301,7 @@ PMID- 38284836
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240130
-LR  - 20240712
+LR  - 20250104
 IS  - 1097-4547 (Electronic)
 IS  - 0360-4012 (Print)
 IS  - 0360-4012 (Linking)
@@ -1039,12 +1374,11 @@ AD  - Department of Neurology, Wayne State University School of Medicine, Detroi
       Michigan, USA.
 LA  - eng
 GR  - R01 NS086778/NS/NINDS NIH HHS/United States
-GR  - GM/NIGMS NIH HHS/United States
-GR  - R01 NS108114/NS/NINDS NIH HHS/United States
-GR  - T32 HL120822/HL/NHLBI NIH HHS/United States
+GR  - R21 NS121276/NS/NINDS NIH HHS/United States
 GR  - R01 AG059683/AG/NIA NIH HHS/United States
 GR  - T34 GM140932/GM/NIGMS NIH HHS/United States
-GR  - R21 NS121276/NS/NINDS NIH HHS/United States
+GR  - R01 NS108114/NS/NINDS NIH HHS/United States
+GR  - T32 HL120822/HL/NHLBI NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PL  - United States
@@ -1080,10 +1414,10 @@ CRDT- 2024/01/29 09:53
 PHST- 2023/10/14 00:00 [revised]
 PHST- 2023/07/19 00:00 [received]
 PHST- 2023/11/05 00:00 [accepted]
-PHST- 2025/01/01 00:00 [pmc-release]
 PHST- 2024/01/30 12:42 [medline]
 PHST- 2024/01/29 12:44 [pubmed]
 PHST- 2024/01/29 09:53 [entrez]
+PHST- 2025/01/01 00:00 [pmc-release]
 AID - 10.1002/jnr.25278 [doi]
 PST - ppublish
 SO  - J Neurosci Res. 2024 Jan;102(1):e25278. doi: 10.1002/jnr.25278.
@@ -5202,6 +5536,7 @@ AD  - National Neuromuscular Center Norway and Department of Neurology and
       Norway.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20211119
 PL  - England
 TA  - Neuromuscul Disord
@@ -9819,7 +10154,7 @@ PMID- 30247609
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20191212
-LR  - 20241206
+LR  - 20250103
 IS  - 1945-7197 (Electronic)
 IS  - 0021-972X (Linking)
 VI  - 104
@@ -9905,7 +10240,7 @@ MH  - Male
 MH  - Polymorphism, Single Nucleotide
 MH  - Postoperative Period
 MH  - Preoperative Period
-MH  - Sex Reassignment Surgery
+MH  - Gender-Affirming Surgery
 MH  - Signal Transduction/*genetics
 MH  - Transsexualism/*genetics
 EDAT- 2018/09/25 06:00
@@ -24570,7 +24905,7 @@ AU  - Hasan Q
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Saudi Arabia
+PL  - India
 TA  - Hematol Oncol Stem Cell Ther
 JT  - Hematology/oncology and stem cell therapy
 JID - 101468532
@@ -38909,7 +39244,7 @@ PMID- 10732754
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20000405
-LR  - 20241203
+LR  - 20250103
 IS  - 0007-0920 (Print)
 IS  - 1532-1827 (Electronic)
 IS  - 0007-0920 (Linking)
@@ -38958,7 +39293,7 @@ MH  - Base Sequence
 MH  - DNA Primers
 MH  - Dosage Compensation, Genetic
 MH  - Female
-MH  - Fibromatosis, Aggressive/genetics/*pathology
+MH  - Desmoid Tumors/genetics/*pathology
 MH  - Humans
 MH  - Middle Aged
 PMC - PMC2374411
@@ -39715,7 +40050,7 @@ PMID- 10486315
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20001002
-LR  - 20240508
+LR  - 20250104
 IS  - 0002-9297 (Print)
 IS  - 1537-6605 (Electronic)
 IS  - 0002-9297 (Linking)

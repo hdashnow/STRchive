@@ -1,4 +1,76 @@
 
+PMID- 39723156
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250104
+IS  - 2976-856X (Electronic)
+IS  - 2976-856X (Linking)
+VI  - 1
+IP  - 4
+DP  - 2024 Oct
+TI  - Triplex H-DNA structure: the long and winding road from the discovery to its role 
+      in human disease.
+PG  - ugae024
+LID - 10.1093/narmme/ugae024 [doi]
+LID - ugae024
+AB  - H-DNA is an intramolecular DNA triplex formed by homopurine/homopyrimidine mirror 
+      repeats. Since its discovery, the field has advanced from characterizing the 
+      structure in vitro to discovering its existence and role in vivo. H-DNA interacts 
+      with cellular machinery in unique ways, stalling DNA and RNA polymerases and 
+      causing genome instability. The foundational S1 nuclease and chemical probing 
+      technologies originally used to show H-DNA formation have been updated and 
+      combined with genome-wide sequencing methods for large-scale mapping of secondary 
+      structures. There is evidence for triplex H-DNA's role in polycystic kidney 
+      disease (PKD), cancer, and numerous repeat expansion diseases (REDs). In PKD, an 
+      H-DNA forming repeat region within the PKD1 gene stalls DNA replication and 
+      induces fragility. H-DNA-forming repeats in various genes have a role in cancer; 
+      the most well-studied examples involve H-DNA-mediated fragility causing 
+      translocations in multiple lymphomas. Lastly, H-DNA-forming repeats have been 
+      implicated in four REDs: Friedreich's ataxia, GAA-FGF14-related ataxia, X-linked 
+      Dystonia Parkinsonism, and cerebellar ataxia, neuropathy and vestibular areflexia 
+      syndrome. In this review, we summarize H-DNA's discovery and characterization, 
+      evidence for its existence and function in vivo, and the field's current 
+      knowledge on its role in physiology and pathology.
+CI  - (c) The Author(s) 2024. Published by Oxford University Press on behalf of NAR 
+      Molecular Medicine.
+FAU - Hisey, Julia A
+AU  - Hisey JA
+AUID- ORCID: 0000-0001-7855-5389
+AD  - Department of Biology, Tufts University, 200 Boston Ave., Medford, MA 02155, USA.
+FAU - Masnovo, Chiara
+AU  - Masnovo C
+AUID- ORCID: 0000-0003-3414-6369
+AD  - Department of Biology, Tufts University, 200 Boston Ave., Medford, MA 02155, USA.
+FAU - Mirkin, Sergei M
+AU  - Mirkin SM
+AUID- ORCID: 0000-0003-4576-7582
+AD  - Department of Biology, Tufts University, 200 Boston Ave., Medford, MA 02155, USA.
+LA  - eng
+GR  - R35 GM130322/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20241205
+PL  - England
+TA  - NAR Mol Med
+JT  - NAR molecular medicine
+JID - 9918752080106676
+PMC - PMC11667243
+EDAT- 2024/12/26 16:51
+MHDA- 2024/12/26 16:52
+PMCR- 2024/12/05
+CRDT- 2024/12/26 04:20
+PHST- 2024/10/09 00:00 [received]
+PHST- 2024/11/21 00:00 [revised]
+PHST- 2024/12/03 00:00 [accepted]
+PHST- 2024/12/26 16:52 [medline]
+PHST- 2024/12/26 16:51 [pubmed]
+PHST- 2024/12/26 04:20 [entrez]
+PHST- 2024/12/05 00:00 [pmc-release]
+AID - ugae024 [pii]
+AID - 10.1093/narmme/ugae024 [doi]
+PST - epublish
+SO  - NAR Mol Med. 2024 Dec 5;1(4):ugae024. doi: 10.1093/narmme/ugae024. eCollection 
+      2024 Oct.
+
 PMID- 39666057
 OWN - NLM
 STAT- In-Process
@@ -443,7 +515,7 @@ SO  - Eur J Hum Genet. 2024 Nov 27. doi: 10.1038/s41431-024-01743-3.
 PMID- 39574782
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241123
+LR  - 20250107
 IS  - 2376-7839 (Print)
 IS  - 2376-7839 (Electronic)
 IS  - 2376-7839 (Linking)
@@ -674,6 +746,8 @@ AD  - From the Department of Neurology (B.J.G., J.S.N., M.N.), O'Donnell Brain
       National Institutes of Health, Bethesda, MD; and Department of Pediatrics and 
       Neurology (C.C.P., D.R.L.), The Children's Hospital of Philadelphia, PA.
 LA  - eng
+GR  - R01 NS081366/NS/NINDS NIH HHS/United States
+GR  - R01 NS121038/NS/NINDS NIH HHS/United States
 PT  - Journal Article
 DEP - 20241120
 PL  - United States
@@ -2632,7 +2706,7 @@ PMID- 38816190
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241118
-LR  - 20241212
+LR  - 20250111
 IS  - 1468-330X (Electronic)
 IS  - 0022-3050 (Linking)
 VI  - 95
@@ -4625,7 +4699,7 @@ SO  - Ann Clin Transl Neurol. 2024 Jan;11(1):96-104. doi: 10.1002/acn3.51936. Ep
 PMID- 37646005
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20230831
+LR  - 20250104
 IS  - 2376-7839 (Print)
 IS  - 2376-7839 (Electronic)
 IS  - 2376-7839 (Linking)
@@ -5124,6 +5198,7 @@ AD  - From the Pos-graduacao Em Medicina Interna e Ciencias da Saude (L.E.N., H.
       Sao Paulo, Brazil; Department of Human Genetics (B.B.), McGill University, 
       Montreal, Canada; and Laboratorio Genetika (S.R.), Curitiba, PR, Brazil.
 LA  - eng
+GR  - MR/S005021/1/MRC_/Medical Research Council/United Kingdom
 PT  - Journal Article
 DEP - 20230828
 PL  - United States

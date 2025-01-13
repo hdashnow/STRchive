@@ -1,4 +1,311 @@
 
+PMID- 39731318
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241228
+LR  - 20250104
+IS  - 1468-1331 (Electronic)
+IS  - 1351-5101 (Print)
+IS  - 1351-5101 (Linking)
+VI  - 32
+IP  - 1
+DP  - 2025 Jan
+TI  - Apolipoprotein E epsilon4 allele is associated with better performance language 
+      and visual memory in spinocerebellar ataxia type 3.
+PG  - e70017
+LID - 10.1111/ene.70017 [doi]
+LID - e70017
+AB  - BACKGROUND: The regulatory role of the apolipoprotein E (APOE) epsilon4 allele in the 
+      clinical manifestations of spinocerebellar ataxia type 3 (SCA3) remains unclear. 
+      This study aimed to evaluate the impact of the APOE epsilon4 allele on cognitive and 
+      motor functions in SCA3 patients. METHODS: This study included 281 unrelated SCA3 
+      patients and 182 controls. APOE genotypes were analyzed using PCR amplification 
+      combined with Sanger sequencing. Additionally, 96 SCA3 patients were 
+      prospectively recruited for neuropsychological and motor function assessments. 
+      Neuropsychological phenotypes were evaluated using the modified Chinese version 
+      of the Minimal Assessment of Cognitive Function in Multiple Sclerosis (MACFIMS). 
+      Motor function was assessed using the Scale for the Assessment and Rating of 
+      Ataxia (SARA) and the International Cooperative Ataxia Rating Scale (ICARS). 
+      RESULTS: The frequency of the APOE epsilon4 allele was increased in SCA3 patients 
+      compared to the control group. The APOE epsilon4 allele was associated with better 
+      performance in language and visual memory, but also with more severe speech 
+      disturbances in SCA3 patients. Furthermore, in SCA3, the expanded CAG repeat 
+      length was correlated with poorer language memory performance and slower 
+      information processing speed, as well as more severe gait disturbances, fast 
+      alternating hand movements, speech disturbance, and oculomotor disorders. 
+      CONCLUSIONS: The APOE epsilon4 allele may serve as a disease-modifying factor in SCA3, 
+      influencing both cognitive and motor functions.
+CI  - (c) 2024 The Author(s). European Journal of Neurology published by John Wiley & 
+      Sons Ltd on behalf of European Academy of Neurology.
+FAU - Chen, Xuanyu
+AU  - Chen X
+AD  - School of Basic Medical Sciences, Fujian Medical University, Fuzhou, China.
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Lin, Kunxin
+AU  - Lin K
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Ye, Zhixian
+AU  - Ye Z
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Qiu, Liangliang
+AU  - Qiu L
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Qiu, Yusen
+AU  - Qiu Y
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Yuan, Ruying
+AU  - Yuan R
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Yu, Xintong
+AU  - Yu X
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Huang, Chunyu
+AU  - Huang C
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Cheng, Bi
+AU  - Cheng B
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Lin, Wei
+AU  - Lin W
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Lai, Tianmin
+AU  - Lai T
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Chen, Wanjin
+AU  - Chen W
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+FAU - Wang, Ning
+AU  - Wang N
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+AD  - Fujian Key Laboratory of Molecular Neurology, Fujian Medical University, Fuzhou, 
+      China.
+FAU - Gan, Shirui
+AU  - Gan S
+AUID- ORCID: 0000-0001-7552-5141
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+AD  - Fujian Key Laboratory of Molecular Neurology, Fujian Medical University, Fuzhou, 
+      China.
+FAU - Su, Qiuni
+AU  - Su Q
+AD  - Center for Precision Medicine, The First Affiliated Hospital of Xiamen 
+      University, School of Medicine, Xiamen University, Xiamen, China.
+FAU - Fu, Ying
+AU  - Fu Y
+AUID- ORCID: 0000-0002-1590-3945
+AD  - School of Basic Medical Sciences, Fujian Medical University, Fuzhou, China.
+AD  - Department of Neurology and Institute of Neurology of First Affiliated Hospital, 
+      Institute of Neuroscience, Fujian Medical University, Fuzhou, China.
+AD  - Fujian Key Laboratory of Molecular Neurology, Fujian Medical University, Fuzhou, 
+      China.
+CN  - OSCCAR Investigators
+LA  - eng
+GR  - 2022ZQNZD005/the Major Scientific Research Program for Young and Middle-aged 
+      Health Professionals of Fujian Province/
+GR  - 82230039/National Natural Science Foundation of China/
+GR  - 82371349/National Natural Science Foundation of China/
+GR  - 82371879/National Natural Science Foundation of China/
+GR  - U21A20360/National Natural Science Foundation of China/
+PT  - Journal Article
+PL  - England
+TA  - Eur J Neurol
+JT  - European journal of neurology
+JID - 9506311
+RN  - 0 (Apolipoprotein E4)
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - *Machado-Joseph Disease/genetics/complications/physiopathology
+MH  - Middle Aged
+MH  - Adult
+MH  - *Apolipoprotein E4/genetics
+MH  - *Alleles
+MH  - Memory/physiology
+MH  - Language
+MH  - Neuropsychological Tests
+PMC - PMC11680744
+OTO - NOTNLM
+OT  - apolipoprotein E
+OT  - cognition
+OT  - motor
+OT  - spinocerebellar ataxia type 3
+COIS- The authors declare that they have no competing interests.
+EDAT- 2024/12/28 11:41
+MHDA- 2024/12/28 11:42
+PMCR- 2024/12/27
+CRDT- 2024/12/28 02:14
+PHST- 2024/07/10 00:00 [received]
+PHST- 2024/12/11 00:00 [accepted]
+PHST- 2024/12/28 11:42 [medline]
+PHST- 2024/12/28 11:41 [pubmed]
+PHST- 2024/12/28 02:14 [entrez]
+PHST- 2024/12/27 00:00 [pmc-release]
+AID - ENE70017 [pii]
+AID - 10.1111/ene.70017 [doi]
+PST - ppublish
+SO  - Eur J Neurol. 2025 Jan;32(1):e70017. doi: 10.1111/ene.70017.
+
+PMID- 39699045
+OWN - NLM
+STAT- Publisher
+LR  - 20241219
+IS  - 1531-8257 (Electronic)
+IS  - 0885-3185 (Linking)
+DP  - 2024 Dec 19
+TI  - Genetic Analysis of GCA Repeats in the GLS Gene: Implications for Undiagnosed 
+      Ataxia and Spinocerebellar Ataxia 3 in Mainland China.
+LID - 10.1002/mds.30083 [doi]
+AB  - BACKGROUND: Recent studies have reported that expanded GCA repeats in the GLS 
+      gene can cause glutaminase deficiency with ataxia phenotype. However, to data, no 
+      studies have investigated the distribution and role of GCA repeats in the GLS 
+      gene of Chinese individuals. OBJECTIVE: The aim was to investigate the 
+      distribution of GCA repeats in Chinese individuals, including undiagnosed ataxia 
+      patients for identifying causal factors, healthy controls for determining the 
+      normal range, and ATX-ATXN3 (spinocerebellar ataxia type 3, SCA3) patients for 
+      exploring genetic modifiers. METHODS: We combined whole-genome sequencing (WGS), 
+      repeat-primed polymerase chain reaction, capillary electrophoresis (RP-PCR/CE), 
+      and ExpansionHunter to screen the GCA repeats in the GLS gene of 349 undiagnosed 
+      ataxia individuals, 1505 healthy controls, and 1236 ATX-ATXN3 (SCA3) patients 
+      from mainland China. RESULTS: No expanded GCA repeats in the GLS gene were 
+      detected across any of the samples. The average number of GCA repeats was 11 
+      (range: 8-31), 12 (range: 6-33), and 11 (range: 6-33) for undiagnosed ataxia 
+      patients, healthy controls, and SCA3 patients, respectively. The intermediate 
+      repeat size (9 < repeat size </= 13) of the nonexpanded GCA allele in the GLS gene 
+      was associated with later disease onset in ATX-ATXN3 (SCA3) patients. 
+      CONCLUSIONS: Abnormal expansions of GLS GCA repeats are rare in the Chinese 
+      population. However, intermediate-length normal GCA repeat sizes may influence 
+      the age at onset (AAO) in ATX-ATXN3 (SCA3) patients. (c) 2024 International 
+      Parkinson and Movement Disorder Society.
+CI  - (c) 2024 International Parkinson and Movement Disorder Society.
+FAU - Lei, Lijing
+AU  - Lei L
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+FAU - Peng, Linliu
+AU  - Peng L
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+FAU - Wan, Linlin
+AU  - Wan L
+AUID- ORCID: 0000-0002-3192-309X
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+AD  - Key Laboratory of Hunan Province in Neurodegenerative Disorders, Central South 
+      University, Changsha, P. R. China.
+AD  - Bioinformatics Center and National Clinical Research Center for Geriatric 
+      Disorders, Xiangya Hospital, Central South University, Changsha, P. R. China.
+AD  - Department of Radiology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+AD  - National International Collaborative Research Center for Medical Metabolomics, 
+      Central South University, Changsha, P. R. China.
+FAU - Chen, Zhao
+AU  - Chen Z
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+AD  - Key Laboratory of Hunan Province in Neurodegenerative Disorders, Central South 
+      University, Changsha, P. R. China.
+AD  - Bioinformatics Center and National Clinical Research Center for Geriatric 
+      Disorders, Xiangya Hospital, Central South University, Changsha, P. R. China.
+AD  - Hunan International Scientific and Technological Cooperation Base of 
+      Neurodegenerative and Neurogenetic Diseases, Changsha, P. R. China.
+FAU - Wang, Chunrong
+AU  - Wang C
+AD  - Department of Pathology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+FAU - Peng, Huirong
+AU  - Peng H
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+FAU - Qiu, Rong
+AU  - Qiu R
+AD  - School of Computer Science and Engineering, Central South University, Changsha, 
+      P. R. China.
+FAU - Tang, Beisha
+AU  - Tang B
+AUID- ORCID: 0000-0003-2120-1576
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+AD  - Key Laboratory of Hunan Province in Neurodegenerative Disorders, Central South 
+      University, Changsha, P. R. China.
+AD  - Bioinformatics Center and National Clinical Research Center for Geriatric 
+      Disorders, Xiangya Hospital, Central South University, Changsha, P. R. China.
+AD  - Hunan International Scientific and Technological Cooperation Base of 
+      Neurodegenerative and Neurogenetic Diseases, Changsha, P. R. China.
+FAU - Jiang, Hong
+AU  - Jiang H
+AUID- ORCID: 0000-0003-2812-4120
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, P. 
+      R. China.
+AD  - Key Laboratory of Hunan Province in Neurodegenerative Disorders, Central South 
+      University, Changsha, P. R. China.
+AD  - Bioinformatics Center and National Clinical Research Center for Geriatric 
+      Disorders, Xiangya Hospital, Central South University, Changsha, P. R. China.
+AD  - National International Collaborative Research Center for Medical Metabolomics, 
+      Central South University, Changsha, P. R. China.
+AD  - Hunan International Scientific and Technological Cooperation Base of 
+      Neurodegenerative and Neurogenetic Diseases, Changsha, P. R. China.
+AD  - Department of Neurology, The Third Xiangya Hospital, Central South University, 
+      Changsha, P. R. China.
+AD  - Furong Laboratory, Central South University, Changsha, P. R. China.
+AD  - Brain Research Center, Central South University, Changsha, P. R. China.
+LA  - eng
+GR  - 2023SK2084/Furong Lab Research Project/
+GR  - R2023047/Major Scientific Research Project for High-level Health Talent in Hunan 
+      Province/
+GR  - 2022RC1027/Science and Technology Innovation Program of Hunan Province/
+GR  - 2023QYJC010/Central South University Research Programme of Advanced 
+      Interdisciplinary Study/
+GR  - 2021YFA0805200/National Key Research and Development Program of China/
+GR  - 2022JJ20094/Natural Science Foundation of Hunan Province/
+GR  - 2022JJ40703/Natural Science Foundation of Hunan Province/
+GR  - 2022JJ40783/Natural Science Foundation of Hunan Province/
+GR  - 2024JJ3050/Natural Science Foundation of Hunan Province/
+GR  - 2024JJ6638/Natural Science Foundation of Hunan Province/
+GR  - 82171254/National Natural Science Foundation of China/
+GR  - 82301628/National Natural Science Foundation of China/
+GR  - 82371272/National Natural Science Foundation of China/
+GR  - 2024M753690/China Postdoctoral Science Foundation/
+GR  - GZB20230870/Postdoctoral Fellowship Program of CPSF/
+PT  - Journal Article
+DEP - 20241219
+PL  - United States
+TA  - Mov Disord
+JT  - Movement disorders : official journal of the Movement Disorder Society
+JID - 8610688
+SB  - IM
+OTO - NOTNLM
+OT  - GCA repeats
+OT  - GLS
+OT  - spinocerebellar ataxia type 3 (SCA3)
+OT  - undiagnosed ataxia
+OT  - whole-genome sequencing
+EDAT- 2024/12/19 12:21
+MHDA- 2024/12/19 12:21
+CRDT- 2024/12/19 08:03
+PHST- 2024/11/07 00:00 [revised]
+PHST- 2024/07/20 00:00 [received]
+PHST- 2024/11/27 00:00 [accepted]
+PHST- 2024/12/19 12:21 [medline]
+PHST- 2024/12/19 12:21 [pubmed]
+PHST- 2024/12/19 08:03 [entrez]
+AID - 10.1002/mds.30083 [doi]
+PST - aheadofprint
+SO  - Mov Disord. 2024 Dec 19. doi: 10.1002/mds.30083.
+
 PMID- 39571249
 OWN - NLM
 STAT- MEDLINE
@@ -1664,7 +1971,7 @@ PMID- 38900277
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240620
-LR  - 20240623
+LR  - 20250104
 IS  - 1573-6822 (Electronic)
 IS  - 0742-2091 (Print)
 IS  - 0742-2091 (Linking)
@@ -2544,7 +2851,7 @@ PMID- 38429929
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240502
-LR  - 20241003
+LR  - 20250109
 IS  - 1525-0024 (Electronic)
 IS  - 1525-0016 (Print)
 IS  - 1525-0016 (Linking)
@@ -2616,6 +2923,7 @@ AU  - McLoughlin HS
 AD  - Department of Neurology, University of Michigan, Ann Arbor, MI 48109, USA. 
       Electronic address: hayleymc@med.umich.edu.
 LA  - eng
+GR  - R35 GM133346/GM/NIGMS NIH HHS/United States
 GR  - U01 NS106670/NS/NINDS NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
@@ -4122,6 +4430,7 @@ AU  - Wang L
 AD  - School of Basic Medical Sciences, Hangzhou Normal University, Hangzhou, China.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20230512
 PL  - England
 TA  - Heliyon
@@ -6301,6 +6610,7 @@ AD  - Department of Biomedical Sciences, Faculty of Medicine, Universitas Padjad
       Bandung, Indonesia.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20220629
 PL  - Switzerland
 TA  - Front Neurol
@@ -8199,6 +8509,7 @@ AD  - Department of Neurology, National Institute of Mental Health & Neuroscienc
       Hosur Road, Bengaluru-560029, Karnataka, India.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20210804
 PL  - England
 TA  - Tremor Other Hyperkinet Mov (N Y)
@@ -11445,6 +11756,7 @@ AD  - Anesthesiology/Pain Medicine, H. Lee Moffitt Cancer Center and Research
       Institute, Tampa, FL, USA.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20191212
 PL  - United States
 TA  - Case Rep Anesthesiol
@@ -23757,7 +24069,7 @@ PMID- 22351852
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120831
-LR  - 20241127
+LR  - 20241219
 IS  - 1538-3687 (Electronic)
 IS  - 0003-9942 (Linking)
 VI  - 69
@@ -23852,6 +24164,7 @@ MH  - Phylogeny
 MH  - Polymorphism, Single Nucleotide/genetics
 MH  - Repressor Proteins/*genetics
 MH  - Terminal Repeat Sequences/genetics
+MH  - Australian Aboriginal and Torres Strait Islander Peoples
 EDAT- 2012/02/22 06:00
 MHDA- 2012/09/01 06:00
 CRDT- 2012/02/22 06:00

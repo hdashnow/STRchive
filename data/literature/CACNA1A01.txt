@@ -4073,6 +4073,7 @@ AD  - Department of Neurology and Neurophysiology, DRK-Kliniken Nordhessen, Kass
 AD  - Department of Neurology, University of Marburg, Marburg, Germany.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20201031
 PL  - Korea (South)
 TA  - J Mov Disord

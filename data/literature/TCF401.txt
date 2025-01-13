@@ -2,7 +2,7 @@
 PMID- 39669694
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241213
+LR  - 20250104
 IS  - 2666-9145 (Electronic)
 IS  - 2666-9145 (Linking)
 VI  - 5
@@ -13,6 +13,7 @@ TI  - Prevalence of Transcription Factor 4 Gene Triplet Repeat Expansion Associa
       Populations.
 PG  - 100611
 LID - 10.1016/j.xops.2024.100611 [doi]
+LID - 100611
 AB  - OBJECTIVE: An intronic cytosine-thymine-guanine (CTG) triplet repeat expansion in 
       the transcription factor 4 gene (TCF4) gene (CTG18.1) confers significant risk 
       for the development of Fuchs' endothelial corneal dystrophy (FECD). The objective 
@@ -72,6 +73,8 @@ AD  - Eugene McDermott Center for Human Growth and Development, University of Te
 AD  - Department of Ophthalmology, University of Texas Southwestern Medical Center, 
       Dallas, Texas.
 LA  - eng
+GR  - P30 EY030413/EY/NEI NIH HHS/United States
+GR  - R01 EY022161/EY/NEI NIH HHS/United States
 PT  - Journal Article
 DEP - 20240830
 PL  - Netherlands
@@ -87,6 +90,7 @@ OT  - Short tandem repeat
 OT  - TCF4
 EDAT- 2024/12/13 11:32
 MHDA- 2024/12/13 11:33
+PMCR- 2024/08/30
 CRDT- 2024/12/13 05:00
 PHST- 2024/03/15 00:00 [received]
 PHST- 2024/08/20 00:00 [revised]
@@ -94,7 +98,9 @@ PHST- 2024/08/22 00:00 [accepted]
 PHST- 2024/12/13 11:33 [medline]
 PHST- 2024/12/13 11:32 [pubmed]
 PHST- 2024/12/13 05:00 [entrez]
+PHST- 2024/08/30 00:00 [pmc-release]
 AID - S2666-9145(24)00147-7 [pii]
+AID - 100611 [pii]
 AID - 10.1016/j.xops.2024.100611 [doi]
 PST - epublish
 SO  - Ophthalmol Sci. 2024 Aug 30;5(1):100611. doi: 10.1016/j.xops.2024.100611. 
@@ -684,7 +690,7 @@ SO  - EBioMedicine. 2024 Oct;108:105328. doi: 10.1016/j.ebiom.2024.105328. Epub 
 PMID- 39231626
 OWN - NLM
 STAT- Publisher
-LR  - 20240904
+LR  - 20250111
 IS  - 1536-4798 (Electronic)
 IS  - 0277-3740 (Linking)
 DP  - 2024 Sep 3
@@ -741,9 +747,10 @@ AD  - McDermott Center for Human Growth and Development, UT Southwestern Medical
       Center, Dallas, TX.
 AD  - Department of Ophthalmology, UT Southwestern Medical Center, Dallas, TX.
 LA  - eng
+GR  - R01 EY022161/EY/NEI NIH HHS/United States
+GR  - Challenge Grant/Research to Prevent Blindness/
 GR  - R01EY022161/EY/NEI NIH HHS/United States
 GR  - P30EY030413/EY/NEI NIH HHS/United States
-GR  - Challenge Grant/Research to Prevent Blindness/
 PT  - Journal Article
 DEP - 20240903
 PL  - United States
@@ -955,7 +962,7 @@ PMID- 38704483
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240504
-LR  - 20240524
+LR  - 20250104
 IS  - 2045-2322 (Electronic)
 IS  - 2045-2322 (Linking)
 VI  - 14
@@ -7077,7 +7084,7 @@ PMID- 10712198
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20000420
-LR  - 20240508
+LR  - 20250104
 IS  - 0002-9297 (Print)
 IS  - 1537-6605 (Electronic)
 IS  - 0002-9297 (Linking)
