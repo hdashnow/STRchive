@@ -96,7 +96,7 @@
   "pathogenic_max": 2000.0,
   "ref_copies": 50.3,
   "motif_len": 3,
-  "age_onset": "Typical: 2-10 [@pmid:11246464]. Range: 1-10; developmental delays without physical features can make onset difficult to detect until schooling [@omim:309548].",
+  "age_onset": "Typical: 2-10 [@pmid:11246465]. Range: 1-10; developmental delays without physical features can make onset difficult to detect until schooling [@omim:309548].",
   "age_onset_min": 1,
   "age_onset_max": 10,
   "typ_age_onset_min": 2.0,
