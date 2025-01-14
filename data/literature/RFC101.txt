@@ -3877,6 +3877,137 @@ AID - 10.1093/brain/awad436 [doi]
 PST - ppublish
 SO  - Brain. 2024 May 3;147(5):1887-1898. doi: 10.1093/brain/awad436.
 
+PMID- 38168171
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240910
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Dec 14
+TI  - AAGGG repeat expansions trigger RFC1-independent synaptic dysregulation in human 
+      CANVAS Neurons.
+LID - 2023.12.13.571345 [pii]
+LID - 10.1101/2023.12.13.571345 [doi]
+AB  - Cerebellar ataxia with neuropathy and vestibular areflexia syndrome (CANVAS) is a 
+      late onset, recessively inherited neurodegenerative disorder caused by biallelic, 
+      non-reference pentameric AAGGG(CCCTT) repeat expansions within the second intron 
+      of replication factor complex subunit 1 (RFC1). To investigate how these repeats 
+      cause disease, we generated CANVAS patient induced pluripotent stem cell (iPSC) 
+      derived neurons (iNeurons) and utilized calcium imaging and transcriptomic 
+      analysis to define repeat-elicited gain-of-function and loss-of-function 
+      contributions to neuronal toxicity. AAGGG repeat expansions do not alter neuronal 
+      RFC1 splicing, expression, or DNA repair pathway functions. In reporter assays, 
+      AAGGG repeats are translated into pentapeptide repeat proteins that selectively 
+      accumulate in CANVAS patient brains. However, neither these proteins nor repeat 
+      RNA foci were detected in iNeurons, and overexpression of these repeats in 
+      isolation did not induce neuronal toxicity. CANVAS iNeurons exhibit defects in 
+      neuronal development and diminished synaptic connectivity that is rescued by 
+      CRISPR deletion of a single expanded allele. These phenotypic deficits were not 
+      replicated by knockdown of RFC1 in control neurons and were not rescued by 
+      ectopic expression of RFC1. These findings support a repeat-dependent but 
+      RFC1-independent cause of neuronal dysfunction in CANVAS, with important 
+      implications for therapeutic development in this currently untreatable condition.
+FAU - Maltby, Connor J
+AU  - Maltby CJ
+AUID- ORCID: 0000-0003-2746-9055
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+FAU - Krans, Amy
+AU  - Krans A
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+AD  - Ann Arbor Veterans Administration Healthcare, Ann Arbor, MI, USA.
+FAU - Grudzien, Samantha J
+AU  - Grudzien SJ
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+AD  - Neuroscience Graduate Program, University of Michigan, Ann Arbor, MI, USA.
+AD  - Department of Computational Medicine and Bioinformatics, University of Michigan, 
+      Ann Arbor, MI, USA.
+FAU - Palacios, Yomira
+AU  - Palacios Y
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+AD  - Postbaccalaureate Research Education Program, University of Michigan, Ann Arbor, 
+      MI, USA.
+FAU - Muinos, Jessica
+AU  - Muinos J
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+AD  - UM SMART Undergraduate Summer Program, University of Michigan, Ann Arbor, MI, 
+      USA.
+FAU - Suarez, Andrea
+AU  - Suarez A
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+AD  - Postbaccalaureate Research Education Program, University of Michigan, Ann Arbor, 
+      MI, USA.
+FAU - Asher, Melissa
+AU  - Asher M
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+FAU - Khurana, Vikram
+AU  - Khurana V
+AD  - Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, 
+      Boston, MA, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Barmada, Sami J
+AU  - Barmada SJ
+AUID- ORCID: 0000-0002-9604-968X
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+FAU - Dijkstra, Anke A
+AU  - Dijkstra AA
+AD  - Department of Pathology, Amsterdam UMC, Amsterdam Neuroscience, Amsterdam, The 
+      Netherlands.
+AD  - Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, The 
+      Netherlands.
+FAU - Todd, Peter K
+AU  - Todd PK
+AUID- ORCID: 0000-0003-4781-6376
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+AD  - Ann Arbor Veterans Administration Healthcare, Ann Arbor, MI, USA.
+LA  - eng
+GR  - R01 NS086810/NS/NINDS NIH HHS/United States
+GR  - P50 HD104463/HD/NICHD NIH HHS/United States
+GR  - I01 BX004842/BX/BLRD VA/United States
+GR  - R01 NS113943/NS/NINDS NIH HHS/United States
+GR  - R21 NS129096/NS/NINDS NIH HHS/United States
+GR  - R01 NS097542/NS/NINDS NIH HHS/United States
+GR  - R56 NS128110/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20231214
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Sci Adv. 2024 Sep 6;10(36):eadn2321. doi: 10.1126/sciadv.adn2321. PMID: 39231235
+PMC - PMC10760133
+OTO - NOTNLM
+OT  - Ataxia
+OT  - C9orf72 FTD/ALS
+OT  - Fragile X-associated Tremor/Ataxia Syndrome
+OT  - Friedreich Ataxia
+OT  - Neurodegeneration
+OT  - Nucleotide Repeat expansion disorders
+OT  - RAN translation
+OT  - RNA foci
+OT  - Short Tandem Repeats
+OT  - neuropathy
+COIS- Conflicts of interest The authors declare no direct conflicts of interest related 
+      to the content of this manuscript. No commercial forces had editorial or 
+      supervisory input on the content of the manuscript or its figures. P.K.T. holds a 
+      shared patent on ASOs with Ionis Pharmaceuticals. He has served as a consultant 
+      with Denali Therapeutics, and he has licensed technology and antibodies to Denali 
+      and Abcam. V.K. is a co-founder of and senior advisor to DaCapo Brainscience and 
+      Yumanity Therapeutics, companies focused on CNS diseases.
+EDAT- 2024/01/04 01:18
+MHDA- 2024/01/04 01:19
+PMCR- 2024/01/02
+CRDT- 2024/01/03 10:36
+PHST- 2024/01/04 01:18 [pubmed]
+PHST- 2024/01/04 01:19 [medline]
+PHST- 2024/01/03 10:36 [entrez]
+PHST- 2024/01/02 00:00 [pmc-release]
+AID - 2023.12.13.571345 [pii]
+AID - 10.1101/2023.12.13.571345 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2023 Dec 14:2023.12.13.571345. doi: 
+      10.1101/2023.12.13.571345.
+
 PMID- 38145611
 OWN - NLM
 STAT- MEDLINE
@@ -4916,6 +5047,7 @@ AD  - Neuroradiology Department, Centro Hospitalar Universitario do Porto, Porto
       Portugal.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20230925
 PL  - United States
 TA  - Am J Med Genet A
@@ -5276,6 +5408,92 @@ AID - 10.1111/ene.16039 [doi]
 PST - ppublish
 SO  - Eur J Neurol. 2023 Dec;30(12):3828-3833. doi: 10.1111/ene.16039. Epub 2023 Aug 
       27.
+
+PMID- 37546920
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240923
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Jul 26
+TI  - Pathogenic CANVAS (AAGGG)(n) repeats stall DNA replication due to the formation 
+      of alternative DNA structures.
+LID - 2023.07.25.550509 [pii]
+LID - 10.1101/2023.07.25.550509 [doi]
+AB  - CANVAS is a recently characterized repeat expansion disease, most commonly caused 
+      by homozygous expansions of an intronic (A(2)G(3))(n) repeat in the RFC1 gene. 
+      There are a multitude of repeat motifs found in the human population at this 
+      locus, some of which are pathogenic and others benign. In this study, we 
+      conducted structure-functional analyses of the main pathogenic (A(2)G(3))(n) and 
+      the main nonpathogenic (A(4)G)(n) repeats. We found that the pathogenic, but not 
+      the nonpathogenic, repeat presents a potent, orientation-dependent impediment to 
+      DNA polymerization in vitro. The pattern of the polymerization blockage is 
+      consistent with triplex or quadruplex formation in the presence of magnesium or 
+      potassium ions, respectively. Chemical probing of both repeats in supercoiled DNA 
+      reveals triplex H-DNA formation by the pathogenic repeat. Consistently, 
+      bioinformatic analysis of the S1-END-seq data from human cell lines shows 
+      preferential H-DNA formation genome-wide by (A(2)G(3))(n) motifs over (A(4)G)(n) 
+      motifs in vivo. Finally, the pathogenic, but not the non-pathogenic, repeat 
+      stalls replication fork progression in yeast and human cells. We hypothesize that 
+      CANVAS-causing (A(2)G(3))(n) repeat represents a challenge to genome stability by 
+      folding into alternative DNA structures that stall DNA replication.
+FAU - Hisey, Julia A
+AU  - Hisey JA
+AD  - Department of Biology, Tufts University, Medford, MA 02155, USA.
+FAU - Radchenko, Elina A
+AU  - Radchenko EA
+AD  - Department of Biology, Tufts University, Medford, MA 02155, USA.
+FAU - Ceschi, Silvia
+AU  - Ceschi S
+AD  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, 
+      Padova 35131, Italy.
+FAU - Rastokina, Anastasia
+AU  - Rastokina A
+AD  - Department of Biology, Tufts University, Medford, MA 02155, USA.
+FAU - Mandel, Nicholas H
+AU  - Mandel NH
+AD  - Department of Biology, Tufts University, Medford, MA 02155, USA.
+FAU - McGinty, Ryan J
+AU  - McGinty RJ
+AD  - Department of Biomedical Informatics, Harvard Medical School, Boston, 
+      Massachusetts, USA.
+FAU - Matos-Rodrigues, Gabriel
+AU  - Matos-Rodrigues G
+AD  - Laboratory of Genome Integrity, National Cancer Institute NIH, Bethesda, MD, USA.
+FAU - Hernandez, Alfredo
+AU  - Hernandez A
+AD  - Department of Biology, Tufts University, Medford, MA 02155, USA.
+FAU - Nussenzweig, Andre
+AU  - Nussenzweig A
+AD  - Laboratory of Genome Integrity, National Cancer Institute NIH, Bethesda, MD, USA.
+FAU - Mirkin, Sergei M
+AU  - Mirkin SM
+AD  - Department of Biology, Tufts University, Medford, MA 02155, USA.
+LA  - eng
+GR  - R35 GM130322/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20230726
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Nucleic Acids Res. 2024 May 8;52(8):4361-4374. doi: 10.1093/nar/gkae124. PMID: 
+      38381906
+PMC - PMC10402041
+EDAT- 2023/08/07 06:41
+MHDA- 2023/08/07 06:42
+PMCR- 2023/08/04
+CRDT- 2023/08/07 04:44
+PHST- 2023/08/07 06:41 [pubmed]
+PHST- 2023/08/07 06:42 [medline]
+PHST- 2023/08/07 04:44 [entrez]
+PHST- 2023/08/04 00:00 [pmc-release]
+AID - 2023.07.25.550509 [pii]
+AID - 10.1101/2023.07.25.550509 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2023 Jul 26:2023.07.25.550509. doi: 
+      10.1101/2023.07.25.550509.
 
 PMID- 37476326
 OWN - NLM
@@ -8141,6 +8359,7 @@ GR  - MR/S005021/1/MRC_/Medical Research Council/United Kingdom
 GR  - MR/T001712/1/MRC_/Medical Research Council/United Kingdom
 GR  - DH_/Department of Health/United Kingdom
 PT  - Case Reports
+PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
 DEP - 20221007
@@ -9738,6 +9957,7 @@ AD  - Department of Clinical Neurological Sciences, University Hospital, London,
       Canada.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20220322
 PL  - Korea (South)
 TA  - J Mov Disord

@@ -687,6 +687,7 @@ AD  - Department of Neurology, Huashan Hospital, Fudan University, 12, Wulumuqi 
       Shanghai, China. Electronic address: xijianying@fudan.edu.cn.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
 DEP - 20230707
 PL  - England

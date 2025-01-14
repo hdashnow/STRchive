@@ -1,9 +1,140 @@
 
+PMID- 39781475
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250113
+IS  - 2048-8505 (Print)
+IS  - 2048-8513 (Electronic)
+IS  - 2048-8505 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2025 Jan
+TI  - MUC1-associated autosomal dominant tubulointerstitial kidney disease: prevalence 
+      in kidney failure of undetermined aetiology and clinical insights from Danish 
+      families.
+PG  - sfae355
+LID - 10.1093/ckj/sfae355 [doi]
+LID - sfae355
+AB  - BACKGROUND: Frameshift variants in the variable number tandem repeat region of 
+      mucin-1 (MUC1) cause autosomal dominant tubulointerstitial kidney disease 
+      (ADTKD-MUC1) but are challenging to detect. We investigated the prevalence in 
+      patients with kidney failure of undetermined aetiology and compared Danish 
+      families with ADTKD-MUC1. METHODS: We recruited patients with suspected kidney 
+      failure of undetermined aetiology at </=50 years and excluded those with a 
+      clear-cut clinical or histopathological kidney diagnoses or established genetic 
+      kidney diseases identified thorough medical record review. MUC1 genotyping was 
+      performed by SNaPshot analysis, detecting the most common pathogenic cytosine 
+      duplication, followed by bioinformatics pipeline VNtyper analysis of short-read 
+      sequencing data. RESULTS: Of 172 recruited patients, 123 underwent SNaPshot 
+      analyses, which were abnormal in 5/123 patients (4%). Next, VNtyper genotyping 
+      was performed in all patients, including the five with abnormal SNaPshot 
+      analysis. VNtyper re-identified the common cytosine duplication in all five 
+      patients and revealed novel frameshift variants in two additional patients, while 
+      the analyses were normal in the remaining 116 patients. All patients carrying 
+      frameshift variants in MUC1 fulfilled ADTKD criteria and had a family history of 
+      kidney failure. A considerable inter- and intrafamilial variability of chronic 
+      kidney disease stage relative to age was observed in families with ADTKD-MUC1. 
+      CONCLUSIONS: ADTKD-MUC1 was identified in 7/123 patients (6%) in a selected 
+      cohort of kidney failure of undetermined aetiology </=50 years, and VNtyper 
+      effectively identified all pathogenic MUC1 variants.
+CI  - (c) The Author(s) 2024. Published by Oxford University Press on behalf of the ERA.
+FAU - Granhoj, Jeff
+AU  - Granhoj J
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+AD  - Department of Regional Health Research, University of Southern Denmark, Odense, 
+      Denmark.
+FAU - Lildballe, Dorte L
+AU  - Lildballe DL
+AD  - Department of Molecular Medicine, Aarhus University Hospital, Aarhus, Denmark.
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Department of Medicine, Regional Hospital of Viborg, Viborg, Denmark.
+FAU - Pedersen, Katja V
+AU  - Pedersen KV
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Tougaard, Birgitte G
+AU  - Tougaard BG
+AD  - Department of Renal Medicine, Aarhus University Hospital, Aarhus, Denmark.
+FAU - Sokol, Martin
+AU  - Sokol M
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Aagaard, Mads M
+AU  - Aagaard MM
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Petersen, Annabeth H
+AU  - Petersen AH
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Kristensen, Tilde
+AU  - Kristensen T
+AD  - Department of Medicine, Regional Hospital of Viborg, Viborg, Denmark.
+AD  - Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.
+FAU - Djursby, Malene
+AU  - Djursby M
+AD  - Department of Clinical Genetics, Rigshospitalet, Copenhagen University Hospital, 
+      Copenhagen, Denmark.
+FAU - Birn, Henrik
+AU  - Birn H
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Department of Renal Medicine, Aarhus University Hospital, Aarhus, Denmark.
+AD  - Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.
+FAU - Rasmussen, Maria
+AU  - Rasmussen M
+AUID- ORCID: 0000-0003-1635-819X
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+AD  - Department of Regional Health Research, University of Southern Denmark, Odense, 
+      Denmark.
+LA  - eng
+PT  - Journal Article
+DEP - 20241118
+PL  - England
+TA  - Clin Kidney J
+JT  - Clinical kidney journal
+JID - 101579321
+PMC - PMC11704794
+OTO - NOTNLM
+OT  - ADTKD
+OT  - MUC1
+OT  - SNaPshot
+OT  - VNtyper
+OT  - undetermined kidney failure
+COIS- J.G. declares research grants from Augustinus Foundation, Danish Medical 
+      Association, A. P. Moller Foundation, and PhD scholarship from Region of Southern 
+      Denmark PhD Fund and Faculty of Health Sciences University of Southern Denmark. 
+      T.K. declares research grants from the Danish Kidney Association and speakers 
+      honorarium from AstraZeneca. H.B. declares consultancy and/or advisory board 
+      participation for NOVO Nordisk, AstraZeneca, Boehringer Ingelheim, Bayer, 
+      Alexion, GSK, Vifor Pharma, Otsuka, Galapagos; speakers honorarium from 
+      AstraZeneca, Astellas, Novartis and MSD; as well as research grants from Vifor 
+      Pharma, GSK, NOVO-foundation, Karen Elise Jensen Foundation and Augustinus 
+      Foundation. M.R. declares research grants from the Danish Kidney Association, 
+      Family Hede Nielsen Foundation, Aase and Ejnar Danielsens Foundation, Augustinus 
+      Foundation and Harboe Foundation, and lecture honorarium from the board of 
+      health.
+EDAT- 2025/01/09 06:22
+MHDA- 2025/01/09 06:23
+PMCR- 2024/11/18
+CRDT- 2025/01/09 04:20
+PHST- 2024/07/05 00:00 [received]
+PHST- 2025/01/09 06:23 [medline]
+PHST- 2025/01/09 06:22 [pubmed]
+PHST- 2025/01/09 04:20 [entrez]
+PHST- 2024/11/18 00:00 [pmc-release]
+AID - sfae355 [pii]
+AID - 10.1093/ckj/sfae355 [doi]
+PST - epublish
+SO  - Clin Kidney J. 2024 Nov 18;18(1):sfae355. doi: 10.1093/ckj/sfae355. eCollection 
+      2025 Jan.
+
 PMID- 39576755
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241210
-LR  - 20241210
+LR  - 20250104
 IS  - 1520-6882 (Electronic)
 IS  - 0003-2700 (Print)
 IS  - 0003-2700 (Linking)
@@ -44,6 +175,7 @@ AU  - Brodbelt JS
 AUID- ORCID: 0000-0003-3207-0217
 AD  - Department of Chemistry, University of Texas, Austin, Texas 78712, United States.
 LA  - eng
+GR  - R35 GM139658/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 DEP - 20241122
 PL  - United States
@@ -69,10 +201,10 @@ EDAT- 2024/11/22 18:16
 MHDA- 2024/12/10 06:23
 PMCR- 2025/12/10
 CRDT- 2024/11/22 13:13
+PHST- 2025/12/10 00:00 [pmc-release]
 PHST- 2024/12/10 06:23 [medline]
 PHST- 2024/11/22 18:16 [pubmed]
 PHST- 2024/11/22 13:13 [entrez]
-PHST- 2025/12/10 00:00 [pmc-release]
 AID - 10.1021/acs.analchem.4c02011 [doi]
 PST - ppublish
 SO  - Anal Chem. 2024 Dec 10;96(49):19230-19237. doi: 10.1021/acs.analchem.4c02011. 
@@ -2839,7 +2971,7 @@ PMID- 27036738
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170529
-LR  - 20240601
+LR  - 20250112
 IS  - 1533-3450 (Electronic)
 IS  - 1046-6673 (Print)
 IS  - 1046-6673 (Linking)

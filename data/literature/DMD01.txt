@@ -1,8 +1,66 @@
 
+PMID- 39803454
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250113
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2025 Jan 2
+TI  - Fibroblast growth factor-inducible 14 regulates satellite cell self-renewal and 
+      expansion during skeletal muscle repair.
+LID - 2024.10.06.616900 [pii]
+LID - 10.1101/2024.10.06.616900 [doi]
+AB  - Skeletal muscle regeneration in adults is predominantly driven by satellite 
+      cells. Loss of satellite cell pool and function leads to skeletal muscle wasting 
+      in many conditions and disease states. Here, we demonstrate that the levels of 
+      fibroblast growth factor-inducible 14 (Fn14) are increased in satellite cells 
+      after muscle injury. Conditional ablation of Fn14 in Pax7-expressing satellite 
+      cells drastically reduces their expansion and skeletal muscle regeneration 
+      following injury. Fn14 is required for satellite cell self-renewal and 
+      proliferation as well as to prevent precocious differentiation. Targeted deletion 
+      of Fn14 inhibits Notch signaling but leads to the spurious activation of STAT3 
+      signaling in regenerating skeletal muscle and in cultured muscle progenitor 
+      cells. Silencing of STAT3 improves proliferation and inhibits premature 
+      differentiation of Fn14-deficient satellite cells. Furthermore, conditional 
+      ablation of Fn14 in satellite cells exacerbates myopathy in the mdx mouse model 
+      of Duchenne muscular dystrophy (DMD) whereas its overexpression improves the 
+      engraftment of exogenous muscle progenitor cells into the dystrophic muscle of 
+      mdx mice. Altogether, our study highlights the crucial role of Fn14 in the 
+      regulation of satellite cell fate and function and suggests that Fn14 can be a 
+      potential molecular target to improve muscle regeneration in muscular disorders.
+FAU - Tomaz da Silva, Meiricris
+AU  - Tomaz da Silva M
+FAU - Joshi, Aniket S
+AU  - Joshi AS
+FAU - Kumar, Ashok
+AU  - Kumar A
+AUID- ORCID: 0000-0001-8571-2848
+LA  - eng
+PT  - Journal Article
+PT  - Preprint
+DEP - 20250102
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+PMC - PMC11722277
+EDAT- 2025/01/13 06:16
+MHDA- 2025/01/13 06:17
+PMCR- 2025/01/10
+CRDT- 2025/01/13 05:43
+PHST- 2025/01/13 06:17 [medline]
+PHST- 2025/01/13 06:16 [pubmed]
+PHST- 2025/01/13 05:43 [entrez]
+PHST- 2025/01/10 00:00 [pmc-release]
+AID - 2024.10.06.616900 [pii]
+AID - 10.1101/2024.10.06.616900 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2025 Jan 2:2024.10.06.616900. doi: 10.1101/2024.10.06.616900.
+
 PMID- 39713478
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241226
+LR  - 20250104
 IS  - 2692-8205 (Electronic)
 IS  - 2692-8205 (Linking)
 DP  - 2024 Dec 10
@@ -79,6 +137,7 @@ AUID- ORCID: 0000-0003-1669-0221
 AD  - Sanford Burnham Prebys Medical Discovery Institute, Development, Aging and 
       Regeneration Program, La Jolla, CA 92037, USA.
 LA  - eng
+GR  - R01 AR056712/AR/NIAMS NIH HHS/United States
 PT  - Journal Article
 PT  - Preprint
 DEP - 20241210
@@ -1367,6 +1426,7 @@ AD  - Department of Neurology, The University of Tokyo, 7-3-1, Hongo, Bunkyo-ku,
       113-8655, Japan.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
 DEP - 20211217
 PL  - England

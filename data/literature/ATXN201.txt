@@ -1,4 +1,138 @@
 
+PMID- 39804470
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250113
+LR  - 20250113
+IS  - 1364-6753 (Electronic)
+IS  - 1364-6745 (Linking)
+VI  - 26
+IP  - 1
+DP  - 2025 Jan 13
+TI  - ATXN2 polyglutamine intermediate repeats length expansions in Malaysian patients 
+      with amyotrophic lateral sclerosis (ALS).
+PG  - 19
+LID - 10.1007/s10048-024-00798-0 [doi]
+AB  - Intermediate CAG repeats from 29 to 33 in the ATXN2 gene contributes to the risk 
+      of amyotrophic lateral sclerosis (ALS) in European and Asian populations. In this 
+      study, 148 ALS patients of multiethnic descent: Chinese (56.1%), Malay (24.3%), 
+      Indian (12.8%), others (6.8%) and 100 neurologically normal controls were 
+      screened for the ATXN2 CAG repeat expansion. The most common repeat length in 
+      both the controls and patients was 22. No familial ALS patients were positive for 
+      the intermediate repeat sizes (29-33), while four sporadic patients (2.8%) were 
+      positive, with one harbouring a rare ATXN2 homozygous 32 repeat expansion, and a 
+      likely pathogenic variant in SPAST. All four patients had limb-onset ALS. Despite 
+      representing the smallest ethnic group in our patient cohort, three of the four 
+      patients with intermediate repeat sizes were of Indian ancestry. This study, 
+      which is the first in Malaysia and Southeast Asia, shows that ATXN2 intermediate 
+      risk expansions are relevant to ALS in these populations and will help to inform 
+      future genetic testing strategies in the clinic.
+CI  - (c) 2025. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Edgar, Suzanna
+AU  - Edgar S
+AD  - Neurology Unit, Department of Medicine, Faculty of Medicine, University of 
+      Malaya, Kuala Lumpur, 50603, Malaysia.
+AD  - Department of Biomedical Science, Faculty of Medicine, University of Malaya, 
+      Kuala Lumpur, 50603, Malaysia.
+FAU - Zulhairy-Liong, Nurul Angelyn
+AU  - Zulhairy-Liong NA
+AD  - Neurology Unit, Department of Medicine, Faculty of Medicine, University of 
+      Malaya, Kuala Lumpur, 50603, Malaysia.
+AD  - Department of Biomedical Science, Faculty of Medicine, University of Malaya, 
+      Kuala Lumpur, 50603, Malaysia.
+FAU - Ellis, Melina
+AU  - Ellis M
+AD  - Northcott Neuroscience Laboratory, Sydney Local Health District ANZAC Research 
+      Institute, Sydney Local Health District Hospital Rd, Concord, NSW, 2137, 
+      Australia.
+FAU - Trivedi, Shuchi
+AU  - Trivedi S
+AD  - Northcott Neuroscience Laboratory, Sydney Local Health District ANZAC Research 
+      Institute, Sydney Local Health District Hospital Rd, Concord, NSW, 2137, 
+      Australia.
+FAU - Zhu, Danqing
+AU  - Zhu D
+AD  - Molecular Medicine Laboratory, NSW Health Pathology, Faculty of Medicine and 
+      Health, University of Sydney, Sydney, NSW, Australia.
+FAU - Odongo, Jeffrey Ochieng
+AU  - Odongo JO
+AD  - Department of Biomedical Science, Faculty of Medicine, University of Malaya, 
+      Kuala Lumpur, 50603, Malaysia.
+FAU - Goh, Khean-Jin
+AU  - Goh KJ
+AD  - Neurology Unit, Department of Medicine, Faculty of Medicine, University of 
+      Malaya, Kuala Lumpur, 50603, Malaysia.
+FAU - Capelle, David Paul
+AU  - Capelle DP
+AD  - Neurology Unit, Department of Medicine, Faculty of Medicine, University of 
+      Malaya, Kuala Lumpur, 50603, Malaysia.
+FAU - Shahrizaila, Nortina
+AU  - Shahrizaila N
+AD  - Neurology Unit, Department of Medicine, Faculty of Medicine, University of 
+      Malaya, Kuala Lumpur, 50603, Malaysia. nortina@um.edu.my.
+FAU - Kennerson, Marina L
+AU  - Kennerson ML
+AD  - Northcott Neuroscience Laboratory, Sydney Local Health District ANZAC Research 
+      Institute, Sydney Local Health District Hospital Rd, Concord, NSW, 2137, 
+      Australia. marina.kennerson@sydney.edu.au.
+AD  - School of Medical Sciences, Faculty of Medicine and Health, University of Sydney, 
+      Sydney, NSW, Australia. marina.kennerson@sydney.edu.au.
+AD  - Molecular Medicine Laboratory, Concord Hospital, Concord, NSW, Australia. 
+      marina.kennerson@sydney.edu.au.
+FAU - Ahmad-Annuar, Azlina
+AU  - Ahmad-Annuar A
+AD  - Department of Biomedical Science, Faculty of Medicine, University of Malaya, 
+      Kuala Lumpur, 50603, Malaysia. azlina_aa@um.edu.my.
+LA  - eng
+GR  - FRGS/1/2018/SKK08/UM/01/1/Malaysian Ministry of Education Fundamental Research 
+      Grant Scheme/
+GR  - IF091-2022/ALS Association Seed Grant/
+GR  - IF095-2023/ALS Association Seed Grant/
+PT  - Journal Article
+DEP - 20250113
+PL  - United States
+TA  - Neurogenetics
+JT  - Neurogenetics
+JID - 9709714
+RN  - 0 (ATXN2 protein, human)
+RN  - 0 (Ataxin-2)
+RN  - 26700-71-0 (polyglutamine)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - Humans
+MH  - *Amyotrophic Lateral Sclerosis/genetics
+MH  - Malaysia
+MH  - *Ataxin-2/genetics
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - *Trinucleotide Repeat Expansion/genetics
+MH  - Adult
+MH  - Aged
+MH  - Peptides/genetics
+MH  - Asian People/genetics
+MH  - Genetic Predisposition to Disease
+OTO - NOTNLM
+OT  - ATXN2
+OT  - Amyotrophic lateral sclerosis
+OT  - Homozygous repeat expansion
+OT  - Intermediate repeat length
+OT  - Malaysia
+COIS- Declarations. Competing interests: The authors declare no competing interests.
+EDAT- 2025/01/13 12:37
+MHDA- 2025/01/13 12:38
+CRDT- 2025/01/13 11:13
+PHST- 2024/09/23 00:00 [received]
+PHST- 2024/12/30 00:00 [accepted]
+PHST- 2025/01/13 12:38 [medline]
+PHST- 2025/01/13 12:37 [pubmed]
+PHST- 2025/01/13 11:13 [entrez]
+AID - 10.1007/s10048-024-00798-0 [pii]
+AID - 10.1007/s10048-024-00798-0 [doi]
+PST - epublish
+SO  - Neurogenetics. 2025 Jan 13;26(1):19. doi: 10.1007/s10048-024-00798-0.
+
 PMID- 39571249
 OWN - NLM
 STAT- MEDLINE
@@ -8194,6 +8328,7 @@ AD  - Department of Neurology, National Institute of Mental Health & Neuroscienc
       Hosur Road, Bengaluru-560029, Karnataka, India.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20210804
 PL  - England
 TA  - Tremor Other Hyperkinet Mov (N Y)
@@ -15158,6 +15293,7 @@ AD  - 1Department of Neurology, University of Maryland School of Medicine, Balti
       MD USA. ISNI: 0000 0001 2175 4264. GRID: grid.411024.2
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20180813
 PL  - England
 TA  - J Clin Mov Disord
