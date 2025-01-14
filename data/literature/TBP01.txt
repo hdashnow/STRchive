@@ -3,7 +3,7 @@ PMID- 39680235
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241216
-LR  - 20241216
+LR  - 20250104
 IS  - 1473-4230 (Electronic)
 IS  - 1473-4222 (Print)
 IS  - 1473-4222 (Linking)
@@ -5368,6 +5368,7 @@ AD  - 1Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics and M
 AD  - Medical Genetic Unit, Ospedale Policlinico San Martino, Genova, Italy.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20180314
 PL  - England
 TA  - Cerebellum Ataxias

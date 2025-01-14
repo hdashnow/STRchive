@@ -3268,6 +3268,7 @@ AU  - Mao X
 AD  - Department of Neurology, The Third Hospital of Changsha, Changsha, Hunan, China.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20230525
 PL  - Switzerland
 TA  - Front Neurol
@@ -6209,6 +6210,7 @@ AD  - Department of Neurology, Huainan First People's Hospital Affiliated to Auh
       University of Science and Technology, Huainan 232000, Anhui Province, China.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 PL  - United States
 TA  - World J Clin Cases
 JT  - World journal of clinical cases
@@ -7260,6 +7262,7 @@ AD  - Division of Child Neurology, Department of Brain and Neurosciences, Facult
       Medicine, Tottori University, 36-1 Nishi-Cho, Yonago, Tottori 683-8504, Japan.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20220921
 PL  - Netherlands
 TA  - Brain Dev
@@ -7802,6 +7805,7 @@ AD  - Department of Neurology, Hirosaki University Graduate School of Medicine,
       Hirosaki, Japan.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20220810
 PL  - Switzerland
 TA  - Front Neurosci
@@ -12731,6 +12735,7 @@ AD  - Department of Neurology, Shanghai Jiao Tong University Affiliated Sixth Pe
       Hospital, Shanghai, China.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20210211
 PL  - Switzerland
 TA  - Front Neurol
@@ -14759,6 +14764,7 @@ AU  - Orimo S
 AD  - Department of Neurology, Kanto Central Hospital, Tokyo, Japan.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20200811
 PL  - England
 TA  - Heliyon
@@ -14802,7 +14808,7 @@ PMID- 32777174
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20211018
-LR  - 20240428
+LR  - 20250108
 IS  - 2328-9503 (Electronic)
 IS  - 2328-9503 (Linking)
 VI  - 7
@@ -14993,12 +14999,15 @@ AD  - Department of Neuromuscular Disease, Queen Square Institute of Neurology, 
       London, UK.
 LA  - eng
 GR  - MR/L501542/1/MRC_/Medical Research Council/United Kingdom
+GR  - MC_EX_MR/M009203/1/MRC_/Medical Research Council/United Kingdom
 GR  - G-0907/PUK_/Parkinson's UK/United Kingdom
 GR  - MR/S01165X/1/MRC_/Medical Research Council/United Kingdom
+GR  - MR/M009203/1/MRC_/Medical Research Council/United Kingdom
 GR  - WT104033AIA/WT_/Wellcome Trust/United Kingdom
 GR  - WT_/Wellcome Trust/United Kingdom
 GR  - G0701075/MRC_/Medical Research Council/United Kingdom
 GR  - G0901254/MRC_/Medical Research Council/United Kingdom
+GR  - MC_PC_14089/MRC_/Medical Research Council/United Kingdom
 GR  - MR/N008324/1/MRC_/Medical Research Council/United Kingdom
 GR  - MR/N026004/1/MRC_/Medical Research Council/United Kingdom
 GR  - MR/S006753/1/MRC_/Medical Research Council/United Kingdom

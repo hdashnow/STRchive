@@ -2,7 +2,7 @@
 PMID- 39725461
 OWN - NLM
 STAT- Publisher
-LR  - 20241226
+LR  - 20250111
 IS  - 1469-9001 (Electronic)
 IS  - 1355-8382 (Linking)
 DP  - 2024 Dec 26
@@ -55,8 +55,8 @@ MHDA- 2024/12/27 00:20
 CRDT- 2024/12/26 20:52
 PHST- 2024/09/25 00:00 [received]
 PHST- 2024/12/23 00:00 [accepted]
-PHST- 2024/12/27 00:20 [medline]
 PHST- 2024/12/27 00:20 [pubmed]
+PHST- 2024/12/27 00:20 [medline]
 PHST- 2024/12/26 20:52 [entrez]
 AID - rna.080270.124 [pii]
 AID - 10.1261/rna.080270.124 [doi]
@@ -67,7 +67,7 @@ PMID- 39684429
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241217
-LR  - 20241217
+LR  - 20250104
 IS  - 1422-0067 (Electronic)
 IS  - 1422-0067 (Linking)
 VI  - 25
@@ -2573,7 +2573,7 @@ PMID- 38134876
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20231225
-LR  - 20240210
+LR  - 20250104
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Print)
 IS  - 0092-8674 (Linking)
@@ -2735,10 +2735,10 @@ CRDT- 2023/12/22 18:26
 PHST- 2022/12/03 00:00 [received]
 PHST- 2023/07/31 00:00 [revised]
 PHST- 2023/11/16 00:00 [accepted]
-PHST- 2024/12/21 00:00 [pmc-release]
 PHST- 2023/12/25 06:42 [medline]
 PHST- 2023/12/23 12:42 [pubmed]
 PHST- 2023/12/22 18:26 [entrez]
+PHST- 2024/12/21 00:00 [pmc-release]
 AID - S0092-8674(23)01273-4 [pii]
 AID - 10.1016/j.cell.2023.11.019 [doi]
 PST - ppublish
@@ -3302,6 +3302,7 @@ AD  - Center of Medical Prenatal Diagnosis, Lishui Maternity and Child Health Ca
       Hospital, Lishui, China.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20230907
 PL  - Switzerland
 TA  - Front Genet
@@ -4301,6 +4302,118 @@ AID - 10.1007/s00221-023-06653-2 [doi]
 PST - ppublish
 SO  - Exp Brain Res. 2023 Aug;241(8):1975-1987. doi: 10.1007/s00221-023-06653-2. Epub 
       2023 Jun 22.
+
+PMID- 37333274
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240609
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Jun 7
+TI  - Ribosomal quality control factors inhibit repeat-associated non-AUG translation 
+      from GC-rich repeats.
+LID - 2023.06.07.544135 [pii]
+LID - 10.1101/2023.06.07.544135 [doi]
+AB  - A GGGGCC (G4C2) hexanucleotide repeat expansion in C9ORF72 causes amyotrophic 
+      lateral sclerosis and frontotemporal dementia (C9ALS/FTD), while a CGG 
+      trinucleotide repeat expansion in FMR1 leads to the neurodegenerative disorder 
+      Fragile X-associated tremor/ataxia syndrome (FXTAS). These GC-rich repeats form 
+      RNA secondary structures that support repeat-associated non-AUG (RAN) translation 
+      of toxic proteins that contribute to disease pathogenesis. Here we assessed 
+      whether these same repeats might trigger stalling and interfere with 
+      translational elongation. We find that depletion of ribosome-associated quality 
+      control (RQC) factors NEMF, LTN1, and ANKZF1 markedly boost RAN translation 
+      product accumulation from both G4C2 and CGG repeats while overexpression of these 
+      factors reduces RAN production in both reporter cell lines and C9ALS/FTD patient 
+      iPSC-derived neurons. We also detected partially made products from both G4C2 and 
+      CGG repeats whose abundance increased with RQC factor depletion. Repeat RNA 
+      sequence, rather than amino acid content, is central to the impact of RQC factor 
+      depletion on RAN translation - suggesting a role for RNA secondary structure in 
+      these processes. Together, these findings suggest that ribosomal stalling and RQC 
+      pathway activation during RAN translation elongation inhibits the generation of 
+      toxic RAN products. We propose augmenting RQC activity as a therapeutic strategy 
+      in GC-rich repeat expansion disorders.
+FAU - Tseng, Yi-Ju
+AU  - Tseng YJ
+AD  - Cellular and Molecular Biology Graduate Program, University of Michigan, Ann 
+      Arbor, MI, 48109, USA.
+FAU - Malik, Indranil
+AU  - Malik I
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, 48109, USA.
+FAU - Deng, Xiexiong
+AU  - Deng X
+AD  - Department of Molecular, Cellular and Developmental Biology, Howard Hughes 
+      Medical Institute, University of Michigan, Ann Arbor, MI, 48109, USA.
+FAU - Krans, Amy
+AU  - Krans A
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, 48109, USA.
+AD  - Ann Arbor Veterans Administration Healthcare, Ann Arbor, MI, 48109, USA.
+FAU - Jansen-West, Karen
+AU  - Jansen-West K
+AD  - Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA.
+FAU - Tank, Elizabeth M H
+AU  - Tank EMH
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, 48109, USA.
+FAU - Gomez, Nicolas B
+AU  - Gomez NB
+AD  - Cellular and Molecular Biology Graduate Program, University of Michigan, Ann 
+      Arbor, MI, 48109, USA.
+AD  - Medical Scientist Training Program, University of Michigan, Ann Arbor, MI, 48109, 
+      USA.
+FAU - Sher, Roger
+AU  - Sher R
+AD  - Department of Neurobiology and Behavior & Center for Nervous System Disorders, 
+      Stony Brook University, Stony Brook, NY, 11794, USA.
+FAU - Petrucelli, Leonard
+AU  - Petrucelli L
+AD  - Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA.
+FAU - Barmada, Sami J
+AU  - Barmada SJ
+AD  - Cellular and Molecular Biology Graduate Program, University of Michigan, Ann 
+      Arbor, MI, 48109, USA.
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, 48109, USA.
+FAU - Todd, Peter K
+AU  - Todd PK
+AD  - Cellular and Molecular Biology Graduate Program, University of Michigan, Ann 
+      Arbor, MI, 48109, USA.
+AD  - Department of Neurology, University of Michigan, Ann Arbor, MI, 48109, USA.
+AD  - Ann Arbor Veterans Administration Healthcare, Ann Arbor, MI, 48109, USA.
+LA  - eng
+GR  - RF1 AG062171/AG/NIA NIH HHS/United States
+GR  - R01 NS086810/NS/NINDS NIH HHS/United States
+GR  - P50 HD104463/HD/NICHD NIH HHS/United States
+GR  - RF1 AG062077/AG/NIA NIH HHS/United States
+GR  - I01 BX004842/BX/BLRD VA/United States
+GR  - P01 NS084974/NS/NINDS NIH HHS/United States
+GR  - P30 AG072931/AG/NIA NIH HHS/United States
+GR  - R01 NS099280/NS/NINDS NIH HHS/United States
+GR  - R01 NS113943/NS/NINDS NIH HHS/United States
+GR  - R35 NS097273/NS/NINDS NIH HHS/United States
+GR  - R01 NS097542/NS/NINDS NIH HHS/United States
+GR  - R56 NS128110/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20230607
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Nucleic Acids Res. 2024 Jun 10;52(10):5928-5949. doi: 10.1093/nar/gkae137. PMID: 
+      38412259
+PMC - PMC10274811
+COIS- CONFLICT OF INTEREST The authors declare no competing interests.
+EDAT- 2023/06/19 06:42
+MHDA- 2023/06/19 06:43
+PMCR- 2023/06/16
+CRDT- 2023/06/19 02:47
+PHST- 2023/06/19 06:42 [pubmed]
+PHST- 2023/06/19 06:43 [medline]
+PHST- 2023/06/19 02:47 [entrez]
+PHST- 2023/06/16 00:00 [pmc-release]
+AID - 2023.06.07.544135 [pii]
+AID - 10.1101/2023.06.07.544135 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2023 Jun 7:2023.06.07.544135. doi: 10.1101/2023.06.07.544135.
 
 PMID- 37209683
 OWN - NLM
@@ -5460,6 +5573,7 @@ AD  - Department of Psychiatry & Behavioral Sciences, University of Kansas Medic
       Center, 3901 Rainbow Blvd. MS 4015, Kansas City, KS 66160, USA.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20220813
 PL  - Switzerland
 TA  - Int J Mol Sci
@@ -11296,7 +11410,7 @@ SO  - Hum Mol Genet. 2021 Aug 28;30(18):1677-1692. doi: 10.1093/hmg/ddab087.
 PMID- 33709078
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20221013
+LR  - 20250106
 IS  - 2632-1297 (Electronic)
 IS  - 2632-1297 (Linking)
 VI  - 3
@@ -11387,6 +11501,7 @@ AU  - Hoozemans JJM
 AD  - Department of Pathology, Amsterdam Neuroscience, Amsterdam University Medical 
       Centre, Amsterdam, The Netherlands.
 LA  - eng
+GR  - I01 BX004842/BX/BLRD VA/United States
 GR  - R01 NS086810/NS/NINDS NIH HHS/United States
 GR  - R01 NS099280/NS/NINDS NIH HHS/United States
 PT  - Journal Article
@@ -21208,6 +21323,7 @@ AD  - Dentistry and Health Sciences, Department of Paediatrics, Faculty of Medic
       david.godler@mcri.edu.au.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20180607
 PL  - Switzerland
 TA  - Genes (Basel)
@@ -29799,7 +29915,7 @@ PMID- 25954027
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20160517
-LR  - 20240516
+LR  - 20250104
 IS  - 1460-2083 (Electronic)
 IS  - 0964-6906 (Print)
 IS  - 0964-6906 (Linking)
@@ -41083,6 +41199,7 @@ FAU - Nishizawa, Masatoyo
 AU  - Nishizawa M
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20110524
 PL  - Switzerland
 TA  - Case Rep Neurol
@@ -51683,7 +51800,7 @@ PMID- 14560307
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20040506
-LR  - 20241227
+LR  - 20250103
 IS  - 1018-4813 (Print)
 IS  - 1018-4813 (Linking)
 VI  - 12
@@ -51758,7 +51875,7 @@ MH  - Female
 MH  - Humans
 MH  - Male
 MH  - Methyl-CpG-Binding Protein 2
-MH  - Persons with Mental Disabilities
+MH  - Persons with Intellectual Disabilities
 MH  - *Repressor Proteins
 MH  - Rett Syndrome/genetics/*pathology
 EDAT- 2003/10/16 05:00
@@ -53415,7 +53532,7 @@ PMID- 11410685
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20011018
-LR  - 20241227
+LR  - 20250103
 IS  - 1011-8934 (Print)
 IS  - 1598-6357 (Electronic)
 IS  - 1011-8934 (Linking)
@@ -53461,7 +53578,7 @@ SB  - IM
 MH  - Adolescent
 MH  - Child
 MH  - Child, Preschool
-MH  - *Disabled Children
+MH  - *Children with Disabilities
 MH  - Female
 MH  - Fragile X Syndrome/*genetics
 MH  - Genetic Testing
