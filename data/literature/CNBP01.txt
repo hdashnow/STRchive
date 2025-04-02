@@ -1,8 +1,301 @@
 
+PMID- 40113266
+OWN - NLM
+STAT- Publisher
+LR  - 20250320
+IS  - 1549-5469 (Electronic)
+IS  - 1088-9051 (Linking)
+DP  - 2025 Mar 20
+TI  - Optical genome mapping enables accurate testing of large repeat expansions.
+LID - 10.1101/gr.279491.124 [doi]
+AB  - Short tandem repeats (STRs) are common variations in human genomes that 
+      frequently expand or contract, causing genetic disorders, mainly when expanded. 
+      Traditional diagnostic methods for identifying these expansions, such as 
+      repeat-primed PCR and Southern blotting, are often labor-intensive, 
+      locus-specific, and are unable to precisely determine long repeat expansions. 
+      Sequencing-based methods, although capable of genome-wide detection, are limited 
+      by inaccuracy (short-read technologies) and high associated costs (long-read 
+      technologies). This study evaluated optical genome mapping (OGM) as an efficient, 
+      accurate approach for measuring STR lengths and assessing somatic stability in 85 
+      samples with known pathogenic repeat expansions in DMPK, CNBP, and RFC1, causing 
+      myotonic dystrophy types 1 and 2 and cerebellar ataxia, neuropathy, and 
+      vestibular areflexia syndrome (CANVAS), respectively. Three workflows-manual de 
+      novo assembly, local guided assembly (local-GA), and a molecule distance 
+      script-were applied, of which the latter two were developed as part of this study 
+      to assess the repeat sizes and somatic repeat stability. OGM successfully 
+      identified 84/85 (98.8%) of the pathogenic expansions, distinguishing between 
+      wild-type and expanded alleles or between two expanded alleles in recessive 
+      cases, with greater accuracy than standard of care (SOC) for long repeats and no 
+      apparent upper size limit. Notably, OGM detected somatic instability in a subset 
+      of DMPK, CNBP, and RFC1 samples. These findings suggest OGM could advance 
+      diagnostic accuracy for large repeat expansions, providing a more comprehensive 
+      genome-wide assay for repeat expansion disorders by measuring exact repeat 
+      lengths and somatic instability across multiple loci simultaneously.
+CI  - (c) 2025 van der Sanden et al.; Published by Cold Spring Harbor Laboratory Press.
+FAU - van der Sanden, Bart
+AU  - van der Sanden B
+AUID- ORCID: 0000-0003-0546-1351
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - Neveling, Kornelia
+AU  - Neveling K
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - Shukor, Syukri
+AU  - Shukor S
+AD  - Bionano Genomics Clinical and Scientific Affairs, San Diego, California 92101, 
+      USA.
+FAU - Gallagher, Michael D
+AU  - Gallagher MD
+AD  - Bionano Genomics Clinical and Scientific Affairs, San Diego, California 92101, 
+      USA.
+FAU - Lee, Joyce
+AU  - Lee J
+AD  - Bionano Genomics Clinical and Scientific Affairs, San Diego, California 92101, 
+      USA.
+FAU - Burke, Stephanie L
+AU  - Burke SL
+AD  - Bionano Genomics Clinical and Scientific Affairs, San Diego, California 92101, 
+      USA.
+FAU - Pennings, Maartje
+AU  - Pennings M
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - van Beek, Ronald
+AU  - van Beek R
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - Oorsprong, Michiel
+AU  - Oorsprong M
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - Kater-Baats, Ellen
+AU  - Kater-Baats E
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - Kamping, Eveline
+AU  - Kamping E
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - Tieleman, Alide A
+AU  - Tieleman AA
+AD  - Department of Neurology, Radboud University Medical Center, 6525GA Nijmegen, the 
+      Netherlands.
+FAU - Voermans, Nicol C
+AU  - Voermans NC
+AD  - Department of Neurology, Radboud University Medical Center, 6525GA Nijmegen, the 
+      Netherlands.
+FAU - Scheffer, Ingrid E
+AU  - Scheffer IE
+AUID- ORCID: 0000-0002-2311-2174
+AD  - Epilepsy Research Centre, Department of Medicine, University of Melbourne, Austin 
+      Health, VIC 3084, Australia.
+AD  - Department of Pediatrics, University of Melbourne, Royal Children's Hospital, 
+      Florey and Murdoch Children's Research Institutes, VIC 3052, Melbourne, 
+      Australia.
+FAU - Gecz, Jozef
+AU  - Gecz J
+AUID- ORCID: 0000-0002-7884-6861
+AD  - South Australian Health and Medical Research Institute, Adelaide, SA 5000, 
+      Australia.
+AD  - Genetics and Molecular Pathology, SA Pathology, Adelaide, SA 5000, Australia.
+AD  - Robinson Research Institute and Adelaide Medical School, University of Adelaide, 
+      Adelaide, SA 5000, Australia.
+FAU - Corbett, Mark A
+AU  - Corbett MA
+AUID- ORCID: 0000-0001-9298-3072
+AD  - Robinson Research Institute and Adelaide Medical School, University of Adelaide, 
+      Adelaide, SA 5000, Australia.
+FAU - Vissers, Lisenka E L M
+AU  - Vissers LELM
+AUID- ORCID: 0000-0001-6470-5497
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+FAU - Pang, Andy Wing Chun
+AU  - Pang AWC
+AD  - Bionano Genomics Clinical and Scientific Affairs, San Diego, California 92101, 
+      USA.
+FAU - Hastie, Alex
+AU  - Hastie A
+AUID- ORCID: 0000-0001-5829-2649
+AD  - Bionano Genomics Clinical and Scientific Affairs, San Diego, California 92101, 
+      USA.
+FAU - Kamsteeg, Erik-Jan
+AU  - Kamsteeg EJ
+AUID- ORCID: 0000-0001-6480-1892
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands; 
+      erik-jan.kamsteeg@radboudumc.nl alexander.hoischen@radboudumc.nl.
+FAU - Hoischen, Alexander
+AU  - Hoischen A
+AD  - Department of Human Genetics, Research Institute for Medical Innovation, Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands; 
+      erik-jan.kamsteeg@radboudumc.nl alexander.hoischen@radboudumc.nl.
+AD  - Department of Internal Medicine, Radboud Expertise Center for Immunodeficiency 
+      and Autoinflammation and Radboud Center for Infectious Disease (RCI), Radboud 
+      University Medical Center, 6525GA Nijmegen, the Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20250320
+PL  - United States
+TA  - Genome Res
+JT  - Genome research
+JID - 9518021
+SB  - IM
+EDAT- 2025/03/21 00:22
+MHDA- 2025/03/21 00:22
+CRDT- 2025/03/20 21:23
+PHST- 2024/04/19 00:00 [received]
+PHST- 2025/02/24 00:00 [accepted]
+PHST- 2025/03/21 00:22 [medline]
+PHST- 2025/03/21 00:22 [pubmed]
+PHST- 2025/03/20 21:23 [entrez]
+AID - gr.279491.124 [pii]
+AID - 10.1101/gr.279491.124 [doi]
+PST - aheadofprint
+SO  - Genome Res. 2025 Mar 20. doi: 10.1101/gr.279491.124.
+
+PMID- 39894140
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250215
+LR  - 20250215
+IS  - 1096-0309 (Electronic)
+IS  - 0003-2697 (Linking)
+VI  - 700
+DP  - 2025 May
+TI  - High-resolution repeat structure analysis in myotonic dystrophy type 2 
+      diagnostics using short-read whole genome sequencing.
+PG  - 115793
+LID - S0003-2697(25)00031-4 [pii]
+LID - 10.1016/j.ab.2025.115793 [doi]
+AB  - BACKGROUND/OBJECTIVES: Diagnostic possibilities for myotonic dystrophy type 2 
+      (DM2) are constantly evolving in order to achieve more accurate and faster 
+      diagnosis. Whole genome sequencing (WGS), together with specialized tandem repeat 
+      (TR) genotyping bioinformatic tools, represent a breakthrough technology in 
+      molecular diagnostics. We decided to characterize new opportunities and 
+      challenges in WGS-based DM2 molecular diagnostics. METHODS: WGS data were 
+      obtained from 50 individuals, including five DM2 patients, and one individual 
+      carrying a premutation range allele. TR characterization was performed using a 
+      modified version of the Dante tool, with results validated by conventional PCR 
+      and repeat-primed PCR. RESULTS: We used WGS to identify all of the 
+      expansion-range DM2 alleles, together with the premutation-range allele. Compared 
+      to conventional methods, WGS was more efficient for a detailed sequence structure 
+      characterization of the normal-range alleles, and phasing of the entire 
+      CNBP-complex motif. A 97 % genotyping concordance rate was achieved between the 
+      conventional methods and the WGS-derived results, with discrepancies mainly based 
+      on single-repeat differences in the genotypes. The stutter effect introduced some 
+      uncertainty in both methods. CONCLUSION: Short-read WGS offers significant 
+      potential for DM2 diagnostics by enabling precise repeat motif characterization 
+      and may also apply to other tandem repeat disorders (TRDs).
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Lojova, Ingrid
+AU  - Lojova I
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Comenius University Science Park, Ilkovicova 8, Karlova 
+      Ves, 841, 04 Bratislava, Slovakia; Department of Molecular Biology, Faculty of 
+      Natural Sciences, Comenius University, Ilkovicova 6, Karlova Ves, 841 04, 
+      Bratislava, Slovakia.
+FAU - Kucharik, Marcel
+AU  - Kucharik M
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Comenius University Science Park, Ilkovicova 8, Karlova 
+      Ves, 841, 04 Bratislava, Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, 
+      Bratislava, Slovakia.
+FAU - Zatkova, Andrea
+AU  - Zatkova A
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia.
+FAU - Balaz, Andrej
+AU  - Balaz A
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia.
+FAU - Pos, Zuzana
+AU  - Pos Z
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia.
+FAU - Tarova, Eva Tothova
+AU  - Tarova ET
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia.
+FAU - Kadasi, Ludevit
+AU  - Kadasi L
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Department of Molecular Biology, Faculty of Natural 
+      Sciences, Comenius University, Ilkovicova 6, Karlova Ves, 841 04, Bratislava, 
+      Slovakia.
+FAU - Budis, Jaroslav
+AU  - Budis J
+AD  - Comenius University Science Park, Ilkovicova 8, Karlova Ves, 841, 04 Bratislava, 
+      Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia; Genovisio 
+      Ltd., Ilkovicova 8, Karlova Ves, 841 04, Bratislava, Slovakia.
+FAU - Szemes, Tomas
+AU  - Szemes T
+AD  - Comenius University Science Park, Ilkovicova 8, Karlova Ves, 841, 04 Bratislava, 
+      Slovakia; Department of Molecular Biology, Faculty of Natural Sciences, Comenius 
+      University, Ilkovicova 6, Karlova Ves, 841 04, Bratislava, Slovakia; Geneton 
+      Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia.
+FAU - Radvanszky, Jan
+AU  - Radvanszky J
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Comenius University Science Park, Ilkovicova 8, Karlova 
+      Ves, 841, 04 Bratislava, Slovakia; Department of Molecular Biology, Faculty of 
+      Natural Sciences, Comenius University, Ilkovicova 6, Karlova Ves, 841 04, 
+      Bratislava, Slovakia; G2 Consulting Slovakia Ltd., Slnecnicova 559/5, 
+      Hviezdoslavov, 930 41, Slovakia. Electronic address: jradvanszky@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250201
+PL  - United States
+TA  - Anal Biochem
+JT  - Analytical biochemistry
+JID - 0370535
+SB  - IM
+MH  - Humans
+MH  - *Myotonic Dystrophy/genetics/diagnosis
+MH  - *Whole Genome Sequencing/methods
+MH  - Alleles
+MH  - Tandem Repeat Sequences/genetics
+MH  - Genotype
+OTO - NOTNLM
+OT  - Massively parallel sequencing
+OT  - Myotonic dystrophy type 2
+OT  - Repeat expansion disorders
+OT  - Tandem repeats
+OT  - Whole genome sequencing
+COIS- Declaration of competing interest The authors declare the following financial 
+      interests/personal relationships which may be considered as potential competing 
+      interests:Tomas Szemes reports a relationship with Genovisio Ltd. That includes: 
+      equity or stocks. If there are other authors, they declare that they have no 
+      known competing financial interests or personal relationships that could have 
+      appeared to influence the work reported in this paper.
+EDAT- 2025/02/03 00:19
+MHDA- 2025/02/16 01:32
+CRDT- 2025/02/02 19:15
+PHST- 2024/10/02 00:00 [received]
+PHST- 2025/01/17 00:00 [revised]
+PHST- 2025/01/27 00:00 [accepted]
+PHST- 2025/02/16 01:32 [medline]
+PHST- 2025/02/03 00:19 [pubmed]
+PHST- 2025/02/02 19:15 [entrez]
+AID - S0003-2697(25)00031-4 [pii]
+AID - 10.1016/j.ab.2025.115793 [doi]
+PST - ppublish
+SO  - Anal Biochem. 2025 May;700:115793. doi: 10.1016/j.ab.2025.115793. Epub 2025 Feb 
+      1.
+
 PMID- 39703464
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241220
+LR  - 20250104
 IS  - 2376-7839 (Print)
 IS  - 2376-7839 (Electronic)
 IS  - 2376-7839 (Linking)
@@ -147,12 +440,16 @@ SO  - Neurol Genet. 2024 Dec 18;11(1):e200220. doi: 10.1212/NXG.0000000000200220
 
 PMID- 39240646
 OWN - NLM
-STAT- Publisher
-LR  - 20240906
+STAT- MEDLINE
+DCOM- 20250219
+LR  - 20250219
 IS  - 2214-3602 (Electronic)
 IS  - 2214-3599 (Linking)
-DP  - 2024 Aug 3
-TI  - Life Expectancy and Causes of Death in Patients with Myotonic Dystrophy Type 2.
+VI  - 11
+IP  - 6
+DP  - 2024 Nov
+TI  - Life expectancy and causes of death in patients with Myotonic Dystrophy Type 2.
+PG  - 1221-1228
 LID - 10.3233/JND-240089 [doi]
 AB  - BACKGROUND: Myotonic Dystrophy type 2 (DM2) is a dominantly inherited multisystem 
       disease caused by a CCTG repeat expansion in intron 1 of the CNBP gene. Although 
@@ -188,13 +485,13 @@ FAU - Muilwijk, Otto G
 AU  - Muilwijk OG
 AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavior, 
       Radboud University Medical Center, Nijmegen, The Netherlands.
-FAU - Olde Dubbelink, Tom B G
-AU  - Olde Dubbelink TBG
+FAU - Olde Dubbelink, Tom Bg
+AU  - Olde Dubbelink TB
 AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavior, 
       Radboud University Medical Center, Nijmegen, The Netherlands.
 AD  - Department of Neurology, Rijnstate Hospital, Arnhem, The Netherlands.
-FAU - van Engelen, Baziel G M
-AU  - van Engelen BGM
+FAU - van Engelen, Baziel Gm
+AU  - van Engelen BG
 AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavior, 
       Radboud University Medical Center, Nijmegen, The Netherlands.
 FAU - Voermans, Nicol C
@@ -207,12 +504,24 @@ AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavi
       Radboud University Medical Center, Nijmegen, The Netherlands.
 LA  - eng
 PT  - Journal Article
-DEP - 20240803
-PL  - Netherlands
+PT  - Observational Study
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948
 SB  - IM
+MH  - Humans
+MH  - *Life Expectancy
+MH  - *Myotonic Dystrophy/mortality
+MH  - Male
+MH  - Female
+MH  - *Cause of Death
+MH  - Aged
+MH  - Middle Aged
+MH  - Netherlands/epidemiology
+MH  - Adult
+MH  - Aged, 80 and over
+MH  - Cohort Studies
 OTO - NOTNLM
 OT  - Myotonic dystrophy type 2
 OT  - advanced care planning
@@ -223,15 +532,15 @@ OT  - life expectancy
 OT  - mortality
 OT  - pneumonia
 EDAT- 2024/09/06 12:44
-MHDA- 2024/09/06 12:44
+MHDA- 2025/02/19 06:21
 CRDT- 2024/09/06 11:43
-PHST- 2024/09/06 12:44 [medline]
+PHST- 2025/02/19 06:21 [medline]
 PHST- 2024/09/06 12:44 [pubmed]
 PHST- 2024/09/06 11:43 [entrez]
 AID - JND240089 [pii]
 AID - 10.3233/JND-240089 [doi]
-PST - aheadofprint
-SO  - J Neuromuscul Dis. 2024 Aug 3. doi: 10.3233/JND-240089.
+PST - ppublish
+SO  - J Neuromuscul Dis. 2024 Nov;11(6):1221-1228. doi: 10.3233/JND-240089.
 
 PMID- 39119544
 OWN - NLM
@@ -552,6 +861,130 @@ AID - 10.1093/g3journal/jkad257 [doi]
 PST - ppublish
 SO  - G3 (Bethesda). 2024 Feb 7;14(2):jkad257. doi: 10.1093/g3journal/jkad257.
 
+PMID- 37461657
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240923
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Jul 7
+TI  - Massive contractions of Myotonic Dystrophy Type 2-associated CCTG tetranucleotide 
+      repeats occur via double strand break repair with distinct requirements for 
+      helicases.
+LID - 2023.07.06.548036 [pii]
+LID - 10.1101/2023.07.06.548036 [doi]
+AB  - Myotonic Dystrophy Type 2 (DM2) is a genetic disease caused by expanded CCTG DNA 
+      repeats in the first intron of CNBP. The number of CCTG repeats in DM2 patients 
+      ranges from 75-11,000, yet little is known about the molecular mechanisms 
+      responsible for repeat expansions or contractions. We developed an experimental 
+      system in Saccharomyces cerevisiae that enables selection of large-scale 
+      contractions of (CCTG)(100) within the intron of a reporter gene and subsequent 
+      genetic analysis. Contractions exceeded 80 repeat units, causing the final 
+      repetitive tract to be well below the threshold for disease. We found that Rad51 
+      and Rad52 are required for these massive contractions, indicating a mechanism 
+      that involves homologous recombination. Srs2 helicase was shown previously to 
+      stabilize CTG, CAG, and CGG repeats. Loss of Srs2 did not significantly affect 
+      CCTG contraction rates in unperturbed conditions. In contrast, loss of the RecQ 
+      helicase Sgs1 resulted in a 6-fold decrease in contraction rate with specific 
+      evidence that helicase activity is required for large-scale contractions. Using a 
+      genetic assay to evaluate chromosome arm loss, we determined that CCTG and 
+      reverse complementary CAGG repeats elevate the rate of chromosomal fragility 
+      compared to a low-repeat control. Overall, our results demonstrate that the 
+      genetic control of CCTG repeat contractions is notably distinct among 
+      disease-causing microsatellite repeat sequences.
+FAU - Papp, David
+AU  - Papp D
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Hernandez, Luis A
+AU  - Hernandez LA
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Mai, Theresa A
+AU  - Mai TA
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Haanen, Terrance J
+AU  - Haanen TJ
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - O'Donnell, Meghan A
+AU  - O'Donnell MA
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Duran, Ariel T
+AU  - Duran AT
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Hernandez, Sophia M
+AU  - Hernandez SM
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Narvanto, Jenni E
+AU  - Narvanto JE
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Arguello, Berenice
+AU  - Arguello B
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Onwukwe, Marvin O
+AU  - Onwukwe MO
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Kolar, Kara
+AU  - Kolar K
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Mirkin, Sergei M
+AU  - Mirkin SM
+AD  - Department of Biology, Tufts University, Medford, MA 02155.
+FAU - Kim, Jane C
+AU  - Kim JC
+AD  - Department of Biological Sciences, California State University San Marcos, San 
+      Marcos, CA 92078.
+LA  - eng
+GR  - K12 GM074869/GM/NIGMS NIH HHS/United States
+GR  - R25 GM066341/GM/NIGMS NIH HHS/United States
+GR  - SC3 GM127198/GM/NIGMS NIH HHS/United States
+GR  - T34 GM008807/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20230707
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - G3 (Bethesda). 2024 Feb 7;14(2):jkad257. doi: 10.1093/g3journal/jkad257. PMID: 
+      37950892
+PMC - PMC10350092
+OTO - NOTNLM
+OT  - DNA repair
+OT  - DNA repeats
+OT  - homologous recombination
+OT  - microsatellites
+EDAT- 2023/07/18 06:42
+MHDA- 2023/07/18 06:43
+PMCR- 2023/07/16
+CRDT- 2023/07/18 03:39
+PHST- 2023/07/18 06:42 [pubmed]
+PHST- 2023/07/18 06:43 [medline]
+PHST- 2023/07/18 03:39 [entrez]
+PHST- 2023/07/16 00:00 [pmc-release]
+AID - 2023.07.06.548036 [pii]
+AID - 10.1101/2023.07.06.548036 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2023 Jul 7:2023.07.06.548036. doi: 10.1101/2023.07.06.548036.
+
 PMID- 37146135
 OWN - NLM
 STAT- MEDLINE
@@ -739,6 +1172,102 @@ AID - ade2044 [pii]
 AID - 10.1126/sciadv.ade2044 [doi]
 PST - ppublish
 SO  - Sci Adv. 2023 May 5;9(18):eade2044. doi: 10.1126/sciadv.ade2044. Epub 2023 May 5.
+
+PMID- 36778282
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240912
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Feb 2
+TI  - Quercetin selectively reduces expanded repeat RNA levels in models of myotonic 
+      dystrophy.
+LID - 2023.02.02.526846 [pii]
+LID - 10.1101/2023.02.02.526846 [doi]
+AB  - Myotonic dystrophy is a multisystemic neuromuscular disease caused by either a 
+      CTG repeat expansion in DMPK (DM1) or a CCTG repeat expansion in CNBP (DM2). 
+      Transcription of the expanded alleles produces toxic gain-of-function RNA that 
+      sequester the MBNL family of alternative splicing regulators into ribonuclear 
+      foci, leading to pathogenic mis-splicing. There are currently no approved 
+      treatments that target the root cause of disease which is the production of the 
+      toxic expansion RNA molecules. In this study, using our previously established 
+      HeLa DM1 repeat selective screening platform, we identified the natural product 
+      quercetin as a selective modulator of toxic RNA levels. Quercetin treatment 
+      selectively reduced toxic RNA levels and rescued MBNL dependent mis-splicing in 
+      DM1 and DM2 patient derived cell lines and in the HSA(LR) transgenic DM1 mouse 
+      model where rescue of myotonia was also observed. Based on our data and its 
+      safety profile for use in humans, we have identified quercetin as a priority 
+      disease-targeting therapeutic lead for clinical evaluation for the treatment of 
+      DM1 and DM2.
+FAU - Mishra, Subodh K
+AU  - Mishra SK
+AD  - The RNA Institute, University at Albany, State University of New York, Albany, NY 
+      12222, USA.
+FAU - Hicks, Sawyer M
+AU  - Hicks SM
+AD  - The RNA Institute, University at Albany, State University of New York, Albany, NY 
+      12222, USA.
+AD  - Department of Biological Sciences, University at Albany, State University of New 
+      York, Albany, NY 12222, USA.
+FAU - Frias, Jesus A
+AU  - Frias JA
+AD  - The RNA Institute, University at Albany, State University of New York, Albany, NY 
+      12222, USA.
+AD  - Department of Biological Sciences, University at Albany, State University of New 
+      York, Albany, NY 12222, USA.
+FAU - Vangaveti, Sweta
+AU  - Vangaveti S
+AD  - The RNA Institute, University at Albany, State University of New York, Albany, NY 
+      12222, USA.
+FAU - Nakamori, Masayuki
+AU  - Nakamori M
+AD  - Department of Neurology, Osaka University Graduate School of Medicine; Osaka, 
+      Japan, 565-0871.
+FAU - Cleary, John D
+AU  - Cleary JD
+AD  - The RNA Institute, University at Albany, State University of New York, Albany, NY 
+      12222, USA.
+FAU - Reddy, Kaalak
+AU  - Reddy K
+AD  - The RNA Institute, University at Albany, State University of New York, Albany, NY 
+      12222, USA.
+AD  - Department of Biological Sciences, University at Albany, State University of New 
+      York, Albany, NY 12222, USA.
+FAU - Berglund, J Andrew
+AU  - Berglund JA
+AD  - The RNA Institute, University at Albany, State University of New York, Albany, NY 
+      12222, USA.
+AD  - Department of Biological Sciences, University at Albany, State University of New 
+      York, Albany, NY 12222, USA.
+LA  - eng
+GR  - P50 NS048843/NS/NINDS NIH HHS/United States
+GR  - R01 NS104010/NS/NINDS NIH HHS/United States
+GR  - R01 NS120485/NS/NINDS NIH HHS/United States
+GR  - T32 GM132066/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20230202
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+PMC - PMC9915578
+COIS- Competing interests S.K.M., J.D.C., K.R. and J.A.B. have filed a provisional 
+      patent application for the use of quercetin and related flavonoids for the 
+      treatment of myotonic dystrophy. J.A.B. serves as a consultant for Entrada 
+      Therapeutics, Kate Therapeutics, Juvena Therapeutics and Syros Pharmaceuticals.
+EDAT- 2023/02/14 06:00
+MHDA- 2023/02/14 06:01
+PMCR- 2023/02/10
+CRDT- 2023/02/13 03:46
+PHST- 2023/02/14 06:00 [pubmed]
+PHST- 2023/02/14 06:01 [medline]
+PHST- 2023/02/13 03:46 [entrez]
+PHST- 2023/02/10 00:00 [pmc-release]
+AID - 2023.02.02.526846 [pii]
+AID - 10.1101/2023.02.02.526846 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2023 Feb 2:2023.02.02.526846. doi: 10.1101/2023.02.02.526846.
 
 PMID- 36018009
 OWN - NLM
@@ -1301,7 +1830,7 @@ AD  - Department of Neurology, Neuromuscular Center Nijmegen, Radboud University
       Medical Center, Nijmegen, The Netherlands.
 LA  - eng
 PT  - Journal Article
-PL  - Netherlands
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948
@@ -2318,6 +2847,7 @@ AU  - Witsch-Baumgartner M
 AD  - Center of Medical Genetics, Medical University of Innsbruck, Innsbruck, Austria.
 LA  - eng
 PT  - Case Reports
+PT  - Journal Article
 DEP - 20170410
 PL  - England
 TA  - SAGE Open Med Case Rep
@@ -5469,7 +5999,7 @@ PMID- 15114529
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20040706
-LR  - 20240510
+LR  - 20250104
 IS  - 0002-9297 (Print)
 IS  - 1537-6605 (Electronic)
 IS  - 0002-9297 (Linking)

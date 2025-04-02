@@ -1,4 +1,292 @@
 
+PMID- 40067487
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250311
+LR  - 20250311
+IS  - 1432-1459 (Electronic)
+IS  - 0340-5354 (Linking)
+VI  - 272
+IP  - 4
+DP  - 2025 Mar 11
+TI  - The impact of interrupted ATXN10 expansions on clinical findings of 
+      spinocerebellar ataxia type 10.
+PG  - 261
+LID - 10.1007/s00415-025-13003-5 [doi]
+AB  - BACKGROUND: Spinocerebellar ataxia type 10 (SCA10), due to an ATTCT repeat 
+      expansion in ATXN10, has variable expressivity and the role of presence 
+      (ATTCTint +) and absence (ATTCTint-) of interruptions in the repeat is not 
+      clear. We aimed to describe the relations between ATTCTint + and age at onset, 
+      seizures, and neurologic severity in ataxic and non-ataxic carriers from Brazil. 
+      METHODS: Family, age at onset (AO), and seizures data plus DNA were obtained from 
+      symptomatic carriers already diagnosed in Porto Alegre, Curitiba, and Sao Paulo, 
+      Brazil. Patients and their relatives were invited to be evaluated through Scale 
+      of Assessment and Rating of Ataxia (SARA) and other clinical scales; a SARA > 2.5 
+      classified subjects as ataxic carriers. Repeat-primed PCR (RP-PCR) defined the 
+      expansions with (ATTCTint +) or without (ATTCTint-) interruptions. Comparisons 
+      were performed for a p level of 0.05. RESULTS: Among 78 ataxic carriers, earlier 
+      AO (p = 0.039) and higher occurrences of epilepsy (p < 0.0001) were seen in 
+      subjects with ATTCTint + than in those with ATTCTint-. Clinical scales were worse 
+      in 34 ataxics than in 7 non-ataxics and 10 related controls (p = 0.006) and did 
+      not discriminate non-ataxics from controls. The 11 ataxic ATTCTint + carriers had 
+      higher SARA scores per year of disease duration than the 23 ATTCTint- carriers 
+      (r = 0.879, beta = 0.45, p = 0.0001). DISCUSSION: ATTCTint + carriers had worse 
+      clinical findings than ATTCTint- carriers: earlier AO, more seizures, and worse 
+      ataxia scores. Interruptions in the expanded repeat have a real impact in SCA10 
+      phenotype.
+CI  - (c) 2025. Springer-Verlag GmbH Germany, part of Springer Nature.
+FAU - Hasan, Ali
+AU  - Hasan A
+AD  - Programa de Pos-Graduacao em Genetica e Biologia Molecular, Universidade Federal 
+      do Rio Grande do Sul, Porto Alegre, RS, Brazil.
+AD  - Centros de Pesquisa Clinica e Experimental, Hospital de Clinicas de Porto Alegre, 
+      Porto Alegre, RS, Brazil.
+FAU - Furtado, Gabriel Vasata
+AU  - Furtado GV
+AD  - Centros de Pesquisa Clinica e Experimental, Hospital de Clinicas de Porto Alegre, 
+      Porto Alegre, RS, Brazil.
+FAU - Miglorini, Elaine
+AU  - Miglorini E
+AD  - Servico de Neurologia, Departamento de Medicina Interna, Unidade de Disturbios do 
+      Movimento, Hospital de Clinicas, Universidade Federal do Parana, Curitiba, PR, 
+      Brazil.
+FAU - Mergener, Rafaella
+AU  - Mergener R
+AD  - Centros de Pesquisa Clinica e Experimental, Hospital de Clinicas de Porto Alegre, 
+      Porto Alegre, RS, Brazil.
+AD  - Graduate Program in Pathology, Universidade Federal das Ciencias da Saude de 
+      Porto Alegre, Porto Alegre, RS, Brasil.
+FAU - Massuyama, Breno
+AU  - Massuyama B
+AD  - Hospital Sao Paulo, Universidade Federal do Estado de Sao Paulo, Sao Paulo, SP, 
+      Brazil.
+FAU - Barsottini, Orlando
+AU  - Barsottini O
+AD  - Hospital Sao Paulo, Universidade Federal do Estado de Sao Paulo, Sao Paulo, SP, 
+      Brazil.
+FAU - Pedroso, Jose Luiz
+AU  - Pedroso JL
+AD  - Hospital Sao Paulo, Universidade Federal do Estado de Sao Paulo, Sao Paulo, SP, 
+      Brazil.
+FAU - Teive, Helio G
+AU  - Teive HG
+AD  - Servico de Neurologia, Departamento de Medicina Interna, Unidade de Disturbios do 
+      Movimento, Hospital de Clinicas, Universidade Federal do Parana, Curitiba, PR, 
+      Brazil.
+AD  - Grupo de Estudo Em Doencas Neurodegenerativas, Programa de Pos-Graduacao Em 
+      Medicina Interna, Universidade Federal do Parana, Curitiba, PR, Brazil.
+FAU - Saraiva-Pereira, Maria Luiza
+AU  - Saraiva-Pereira ML
+AD  - Programa de Pos-Graduacao em Genetica e Biologia Molecular, Universidade Federal 
+      do Rio Grande do Sul, Porto Alegre, RS, Brazil.
+AD  - Centros de Pesquisa Clinica e Experimental, Hospital de Clinicas de Porto Alegre, 
+      Porto Alegre, RS, Brazil.
+AD  - Departamento de Bioquimica, Universidade Federal do Rio Grande do Sul, Porto 
+      Alegre, Rio Grande do Sul, Brazil.
+AD  - Servico de Genetica Medica, Hospital de Clinicas de Porto Alegre, Rua Ramiro 
+      Barcelos 2350, Porto Alegre, RS, 90035-003, Brazil.
+FAU - Ashizawa, Tetsuo
+AU  - Ashizawa T
+AD  - Methodist Hospital and Houston Methodist Research Institute, Houston, TX, USA.
+FAU - Jardim, Laura Bannach
+AU  - Jardim LB
+AUID- ORCID: 0000-0001-6907-5068
+AD  - Programa de Pos-Graduacao em Genetica e Biologia Molecular, Universidade Federal 
+      do Rio Grande do Sul, Porto Alegre, RS, Brazil. ljardim@hcpa.edu.br.
+AD  - Centros de Pesquisa Clinica e Experimental, Hospital de Clinicas de Porto Alegre, 
+      Porto Alegre, RS, Brazil. ljardim@hcpa.edu.br.
+AD  - Servico de Genetica Medica, Hospital de Clinicas de Porto Alegre, Rua Ramiro 
+      Barcelos 2350, Porto Alegre, RS, 90035-003, Brazil. ljardim@hcpa.edu.br.
+AD  - Departamento de Medicina Interna, Universidade Federal do Rio Grande do Sul, 
+      Porto Alegre, RS, Brazil. ljardim@hcpa.edu.br.
+LA  - eng
+GR  - 404185/2019-3/Conselho Nacional de Desenvolvimento Cientifico e Tecnologico/
+PT  - Journal Article
+DEP - 20250311
+PL  - Germany
+TA  - J Neurol
+JT  - Journal of neurology
+JID - 0423161
+RN  - 0 (Ataxin-10)
+RN  - 0 (ATXN10 protein, human)
+RN  - Spinocerebellar Ataxia 10
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - *Spinocerebellar Ataxias/genetics/diagnosis
+MH  - *Ataxin-10/genetics
+MH  - Adult
+MH  - Middle Aged
+MH  - *Age of Onset
+MH  - DNA Repeat Expansion
+MH  - Aged
+MH  - Brazil
+MH  - Severity of Illness Index
+MH  - Young Adult
+MH  - Adolescent
+MH  - Seizures/genetics
+OTO - NOTNLM
+OT  - ATXN10
+OT  - ATTCT interruptions
+OT  - NESSCA
+OT  - Non-ataxic carriers
+OT  - SARA
+OT  - SCA10
+COIS- Declarations. Conflicts of interest: The authors declare that they have no 
+      conflict of interest. Ethical approval: This study was approved by the 
+      Institutional Ethics Committee (Comissao de Etica em Pesquisa do Hospital de 
+      Clinicas de Porto Alegre) by the number CAAE 27946619.9.1001.5327. Written 
+      informed consent was obtained from all study participants.
+EDAT- 2025/03/12 11:35
+MHDA- 2025/03/12 11:36
+CRDT- 2025/03/11 12:15
+PHST- 2025/01/20 00:00 [received]
+PHST- 2025/02/28 00:00 [accepted]
+PHST- 2025/02/27 00:00 [revised]
+PHST- 2025/03/12 11:36 [medline]
+PHST- 2025/03/12 11:35 [pubmed]
+PHST- 2025/03/11 12:15 [entrez]
+AID - 10.1007/s00415-025-13003-5 [pii]
+AID - 10.1007/s00415-025-13003-5 [doi]
+PST - epublish
+SO  - J Neurol. 2025 Mar 11;272(4):261. doi: 10.1007/s00415-025-13003-5.
+
+PMID- 39820777
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250117
+LR  - 20250311
+IS  - 1473-4230 (Electronic)
+IS  - 1473-4222 (Linking)
+VI  - 24
+IP  - 2
+DP  - 2025 Jan 16
+TI  - ATXN10 Gene Expansions in Mexican Patients with Ataxia Without Epilepsy.
+PG  - 33
+LID - 10.1007/s12311-024-01784-w [doi]
+AB  - Spinocerebellar ataxia type 10 (SCA10) is an autosomal dominant (AD) 
+      neurodegenerative disorder prevalent in the Americas, particularly in Mexico. 
+      Clinical manifestations include progressive ataxia and epilepsy. However, it can 
+      exhibit wide phenotypic variability and even reduced penetrance. Because the 
+      diagnostic overlaps with other ataxias, molecular diagnosis is essential. This 
+      cross-sectional study conducted a retrospective review and analysis of 183 DNA 
+      samples from a laboratory registry of patients with ataxia who were suspected of 
+      having AD ataxia (n = 86; negative for ATXN1, ATXN2, ATXN3, ATXN7, TBP, and ATN1 
+      genes) or sporadic ataxia (n = 97). Triplet repeat-primed PCR (TP-PCR) was 
+      performed to identify ATXN10 gene expansions. 19.6% (n = 36) of the samples 
+      showed ATXN10 expansions, with a higher proportion of hereditary AD cases (30.2%; 
+      n = 26) compared to sporadic cases (10.3%; n = 10). Clinical information was 
+      available in only 23 registries, with manifestations predominantly including 
+      cerebellar signs, but notably not epilepsy. The frequency of SCA10 in our country 
+      underlines the need to change the diagnostic suspicion, as the absence of 
+      epilepsy challenges previous diagnostic assumptions. As this is a study from a 
+      laboratory registry, we are aware of certain limitations.
+CI  - (c) 2025. The Author(s), under exclusive licence to Springer Science+Business 
+      Media, LLC, part of Springer Nature.
+FAU - Jara-Prado, Aurelio
+AU  - Jara-Prado A
+AD  - Genetics Department, National Institute of Neurology and Neurosurgery Manuel 
+      Velasco Suarez, Insurgentes Sur 3877. La Fama, Tlalpan, 14269, Mexico City, 
+      Mexico.
+FAU - Arias-Capistran, Eukeni
+AU  - Arias-Capistran E
+AD  - Genetics Department, National Institute of Neurology and Neurosurgery Manuel 
+      Velasco Suarez, Insurgentes Sur 3877. La Fama, Tlalpan, 14269, Mexico City, 
+      Mexico.
+AD  - Universidad Simon Bolivar, Mexico City, Mexico.
+FAU - Guerrero-Camacho, Jorge
+AU  - Guerrero-Camacho J
+AD  - Genetics Department, National Institute of Neurology and Neurosurgery Manuel 
+      Velasco Suarez, Insurgentes Sur 3877. La Fama, Tlalpan, 14269, Mexico City, 
+      Mexico.
+FAU - Ochoa-Morales, Adriana
+AU  - Ochoa-Morales A
+AD  - Genetics Department, National Institute of Neurology and Neurosurgery Manuel 
+      Velasco Suarez, Insurgentes Sur 3877. La Fama, Tlalpan, 14269, Mexico City, 
+      Mexico.
+FAU - Boll, Marie Catherine
+AU  - Boll MC
+AD  - Clinical Research Laboratory, National Institute of Neurology and Neurosurgery 
+      Manuel Velasco Suarez, Mexico City, Mexico.
+FAU - Davila-Ortiz de Montellano, David
+AU  - Davila-Ortiz de Montellano D
+AD  - Genetics Department, National Institute of Neurology and Neurosurgery Manuel 
+      Velasco Suarez, Insurgentes Sur 3877. La Fama, Tlalpan, 14269, Mexico City, 
+      Mexico.
+FAU - Rasmussen, Astrid
+AU  - Rasmussen A
+AD  - Oklahoma Medical Research Foundation, Oklahoma City, OK, USA.
+FAU - Ashizawa, Tetsuo
+AU  - Ashizawa T
+AD  - The Houston Methodist Hospital, Houston, TX, USA.
+FAU - Fernandez-Ruiz, Juan
+AU  - Fernandez-Ruiz J
+AD  - Department of Physiology, Faculty of Medicine, National Autonomous University of 
+      Mexico, Mexico City, Mexico.
+FAU - Yescas-Gomez, Petra
+AU  - Yescas-Gomez P
+AD  - Genetics Department, National Institute of Neurology and Neurosurgery Manuel 
+      Velasco Suarez, Insurgentes Sur 3877. La Fama, Tlalpan, 14269, Mexico City, 
+      Mexico.
+FAU - Ramirez-Garcia, Miguel Angel
+AU  - Ramirez-Garcia MA
+AUID- ORCID: 0000-0003-3221-3636
+AD  - Genetics Department, National Institute of Neurology and Neurosurgery Manuel 
+      Velasco Suarez, Insurgentes Sur 3877. La Fama, Tlalpan, 14269, Mexico City, 
+      Mexico. miguel.ramirez@innn.edu.mx.
+LA  - eng
+PT  - Journal Article
+DEP - 20250116
+PL  - United States
+TA  - Cerebellum
+JT  - Cerebellum (London, England)
+JID - 101089443
+RN  - 0 (Ataxin-10)
+RN  - 0 (ATXN10 protein, human)
+RN  - Spinocerebellar Ataxia 10
+SB  - IM
+MH  - Humans
+MH  - Mexico/epidemiology
+MH  - Female
+MH  - Male
+MH  - Adult
+MH  - Middle Aged
+MH  - Cross-Sectional Studies
+MH  - *Ataxin-10/genetics
+MH  - Retrospective Studies
+MH  - *Spinocerebellar Ataxias/genetics/epidemiology
+MH  - Aged
+MH  - Young Adult
+MH  - Epilepsy/genetics/epidemiology
+MH  - Adolescent
+MH  - Trinucleotide Repeat Expansion/genetics
+MH  - DNA Repeat Expansion
+OTO - NOTNLM
+OT  - ATXN10 gene
+OT  - Ataxia
+OT  - Epilepsy
+OT  - Mexico
+OT  - Spinocerebellar ataxia type 10
+COIS- Declarations. Study Funding: This research did not receive specific funding from 
+      any public, commercial, or not-for-profit funding agency. Competing Interests: 
+      Tetsuo Ashizawa received grants from the NIH (U01 NS104326 and R01 NS115002), the 
+      National Ataxia Foundation, and the Myotonic Dystrophy Foundation. He discloses 
+      participation in Biogen trials NCT03952806 and Biohaven trials NCT03701399, and 
+      he received the endowment Harriet and Joe B. Foster Distinguished Chair in 
+      Neurosciences.
+EDAT- 2025/01/17 18:23
+MHDA- 2025/01/17 18:24
+CRDT- 2025/01/17 13:31
+PHST- 2024/12/31 00:00 [accepted]
+PHST- 2025/01/17 18:24 [medline]
+PHST- 2025/01/17 18:23 [pubmed]
+PHST- 2025/01/17 13:31 [entrez]
+AID - 10.1007/s12311-024-01784-w [pii]
+AID - 10.1007/s12311-024-01784-w [doi]
+PST - epublish
+SO  - Cerebellum. 2025 Jan 16;24(2):33. doi: 10.1007/s12311-024-01784-w.
+
 PMID- 38961870
 OWN - NLM
 STAT- PubMed-not-MEDLINE

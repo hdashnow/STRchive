@@ -1,9 +1,295 @@
 
+PMID- 39848530
+OWN - NLM
+STAT- Publisher
+LR  - 20250315
+IS  - 1523-6838 (Electronic)
+IS  - 0272-6386 (Linking)
+DP  - 2025 Jan 22
+TI  - Phenotypic Heterogeneity of ADTKD-MUC1 Diagnosed Using VNtyper, a Novel Genetic 
+      Technique.
+LID - S0272-6386(25)00038-1 [pii]
+LID - 10.1053/j.ajkd.2024.11.010 [doi]
+AB  - RATIONALE & OBJECTIVE: Molecular diagnosis of autosomal dominant 
+      tubulointerstitial kidney disease (ADTKD) due to variants in the MUC1 gene has 
+      long been challenging because variants lie in a large variable number of tandem 
+      repeat (VNTR) region, making identification impossible using standard short-read 
+      techniques. Previously, we addressed this diagnostic limitation by developing a 
+      computational pipeline named VNtyper for easier reliable detection of MUC1 VNTR 
+      pathogenic variants from short-read sequences. This led to unexpected diagnoses 
+      of ADTKD-MUC1 among patients with kidney disease referred for genetic testing, 
+      which we report here. STUDY DESIGN: Cross-sectional observational study. SETTING 
+      & PARTICIPANTS: 4,040 patients referred to Necker Enfants-Malades Hospital from 
+      2017 to 2023 for genetic testing for (1) glomerular disease, (2) ciliopathy, (3) 
+      congenital anomalies of the kidneys and urinary tracts (CAKUT), (4) ADTKD, or (5) 
+      chronic kidney disease (CKD) of unknown origin, in whom MUC1 had not been 
+      previously tested by SNaPshot minisequencing. EXPOSURE: Clinical suspicion of 
+      ADTKD. OUTCOME: ADTKD-MUC1 diagnosed using VNtyper. ANALYTICAL APPROACH: Data 
+      were collected from patients in whom ADTKD-MUC1 was newly diagnosed and patients 
+      in whom ADTKD was clinically suspected were compared with those in whom ADTKD was 
+      not. RESULTS: We identified 40 patients with MUC1 variants by VNtyper, including 
+      33 new index patients and 7 relatives. Of the 33 index cases, 20 had been 
+      suspected of having ADTKD based on clinical features, and in the other 13 ADTKD 
+      had not been considered. In patients in whom ADTKD had not been considered 
+      clinically, the detection rate was 0.05% (1 of 1,895) among patients with 
+      glomerular disease, 1.2% (4 of 329) among patients with ciliopathy, 0.09% (1 of 
+      1,099) among patients with CAKUT and 2.5% (7 of 285) among patients with CKD of 
+      unknown origin. In 6 patients there was no family history of kidney disease, and 
+      we confirmed de novo presentation in 2 patients by segregation studies. 
+      LIMITATIONS: Observational study and selected referral population (may not 
+      represent the prevalence or phenotypes in the general kidney disease population). 
+      CONCLUSIONS: With VNtyper, we were able to diagnose new cases of ADTKD-MUC1 in a 
+      large cohort of patients with various phenotypes. Some patients had atypical 
+      phenotypes due to a variant in another gene, and some had no family history of 
+      kidney disease, suggesting de novo disease, which was confirmed in 2 patients. 
+      PLAIN-LANGUAGE SUMMARY: Molecular diagnosis of autosomal dominant 
+      tubulointerstitial kidney disease due to variants in the MUC1 gene (ADTKD-MUC1) 
+      has long been challenging. Recently, we developed a computational pipeline named 
+      VNtyper to allow easier, reliable detection of MUC1 variants. When applied to a 
+      large heterogenous cohort of patients, it allowed us to diagnose ADTKD in 
+      patients in whom it had not been suspected. In some cases, this was due to 2 
+      concomitant genetic diagnoses, which affected the phenotype. In others, there was 
+      no family history of kidney disease suggestive of an autosomal dominant disorder, 
+      and we were able to confirm de novo ADTKD-MUC1 in 2 patients.
+CI  - Copyright (c) 2025. Published by Elsevier Inc.
+FAU - Kachmar, Jessica
+AU  - Kachmar J
+AD  - Hereditary Kidney Diseases Laboratory, Inserm UMR 1163, Imagine Institute, Paris 
+      Cite University, Paris, France.
+FAU - Saei, Hassan
+AU  - Saei H
+AD  - Hereditary Kidney Diseases Laboratory, Inserm UMR 1163, Imagine Institute, Paris 
+      Cite University, Paris, France.
+FAU - Moriniere, Vincent
+AU  - Moriniere V
+AD  - Department of Genomic Medicine for Rare Diseases, Necker-Enfants Malades 
+      Hospital, Assistance Publique, Hopitaux de Paris (AP-HP), Paris, France.
+FAU - Heidet, Laurence
+AU  - Heidet L
+AD  - Hereditary Kidney Diseases Laboratory, Inserm UMR 1163, Imagine Institute, Paris 
+      Cite University, Paris, France; Pediatric Nephrology Department, MARHEA Reference 
+      Center, Necker-Enfants Malades Hospital, Assistance Publique, Hopitaux de Paris 
+      (AP-HP), Paris, France.
+FAU - Knebelmann, Bertrand
+AU  - Knebelmann B
+AD  - Department of Nephrology, MARHEA Reference Center, Necker-Enfants Malades 
+      Hospital, Assistance Publique, Hopitaux de Paris (AP-HP), Paris, France.
+FAU - Gribouval, Olivier
+AU  - Gribouval O
+AD  - Hereditary Kidney Diseases Laboratory, Inserm UMR 1163, Imagine Institute, Paris 
+      Cite University, Paris, France.
+FAU - Mautret-Godefroy, Manon
+AU  - Mautret-Godefroy M
+AD  - Department of Genomic Medicine for Rare Diseases, Necker-Enfants Malades 
+      Hospital, Assistance Publique, Hopitaux de Paris (AP-HP), Paris, France.
+FAU - Burtey, Stephane
+AU  - Burtey S
+AD  - Inserm, C2VN, INRAE, C2VN, Aix-Marseille University, Marseille, France; 
+      Nephrology and Renal Transplantation Center, AP-HM Hopital de la Conception, 
+      Marseille, France.
+FAU - Vuiblet, Vincent
+AU  - Vuiblet V
+AD  - Department of Nephrology, CHU de Reims, Reims, France; Department of Pathology, 
+      CHU de Reims, Reims, France; Artificial Intelligence Institute, Reims 
+      Champagne-Ardenne University, CHU de Reims, Reims, France.
+FAU - Alla, Asma
+AU  - Alla A
+AD  - Department of Nephrology, CHRU de Nancy, Nancy, France.
+FAU - Ibalanky, Axel
+AU  - Ibalanky A
+AD  - Department of Nephrology, Groupe Hospitalier Sud Ile-de-France, Melun, France.
+FAU - Moranne, Olivier
+AU  - Moranne O
+AD  - Nephrology-Dialysis-Apheresis Unit, University Hospital Caremeau Nimes, 
+      Montpellier University, Nimes, France.
+FAU - Nizon, Mathilde
+AU  - Nizon M
+AD  - Medical Genetics Department, CHU Hotel Dieu, Nantes, France.
+FAU - Savenkoff, Benjamin
+AU  - Savenkoff B
+AD  - Department of Nephrology, CHR Metz-Thionville, Metz, France.
+FAU - Nitschke, Patrick
+AU  - Nitschke P
+AD  - Bioinformatics Platform, Inserm UMR 1163, Imagine Institute, Paris Cite 
+      University, Paris, France.
+FAU - Antignac, Corinne
+AU  - Antignac C
+AD  - Hereditary Kidney Diseases Laboratory, Inserm UMR 1163, Imagine Institute, Paris 
+      Cite University, Paris, France.
+FAU - Dorval, Guillaume
+AU  - Dorval G
+AD  - Hereditary Kidney Diseases Laboratory, Inserm UMR 1163, Imagine Institute, Paris 
+      Cite University, Paris, France; Department of Genomic Medicine for Rare Diseases, 
+      Necker-Enfants Malades Hospital, Assistance Publique, Hopitaux de Paris (AP-HP), 
+      Paris, France. Electronic address: guillaume.dorval@inserm.fr.
+LA  - eng
+PT  - Journal Article
+DEP - 20250122
+PL  - United States
+TA  - Am J Kidney Dis
+JT  - American journal of kidney diseases : the official journal of the National Kidney 
+      Foundation
+JID - 8110075
+SB  - IM
+OTO - NOTNLM
+OT  - ADTKD
+OT  - MUC1 gene
+OT  - autosomal dominant tubulointerstitial kidney disease
+OT  - chronic kidney disease
+OT  - genetic testing
+OT  - genetics
+OT  - hereditary kidney disease
+EDAT- 2025/01/24 00:26
+MHDA- 2025/01/24 00:26
+CRDT- 2025/01/23 19:17
+PHST- 2024/07/16 00:00 [received]
+PHST- 2024/11/05 00:00 [revised]
+PHST- 2024/11/14 00:00 [accepted]
+PHST- 2025/01/24 00:26 [pubmed]
+PHST- 2025/01/24 00:26 [medline]
+PHST- 2025/01/23 19:17 [entrez]
+AID - S0272-6386(25)00038-1 [pii]
+AID - 10.1053/j.ajkd.2024.11.010 [doi]
+PST - aheadofprint
+SO  - Am J Kidney Dis. 2025 Jan 22:S0272-6386(25)00038-1. doi: 
+      10.1053/j.ajkd.2024.11.010.
+
+PMID- 39781475
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250205
+IS  - 2048-8505 (Print)
+IS  - 2048-8513 (Electronic)
+IS  - 2048-8505 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2025 Jan
+TI  - MUC1-associated autosomal dominant tubulointerstitial kidney disease: prevalence 
+      in kidney failure of undetermined aetiology and clinical insights from Danish 
+      families.
+PG  - sfae355
+LID - 10.1093/ckj/sfae355 [doi]
+LID - sfae355
+AB  - BACKGROUND: Frameshift variants in the variable number tandem repeat region of 
+      mucin-1 (MUC1) cause autosomal dominant tubulointerstitial kidney disease 
+      (ADTKD-MUC1) but are challenging to detect. We investigated the prevalence in 
+      patients with kidney failure of undetermined aetiology and compared Danish 
+      families with ADTKD-MUC1. METHODS: We recruited patients with suspected kidney 
+      failure of undetermined aetiology at </=50 years and excluded those with a 
+      clear-cut clinical or histopathological kidney diagnoses or established genetic 
+      kidney diseases identified thorough medical record review. MUC1 genotyping was 
+      performed by SNaPshot analysis, detecting the most common pathogenic cytosine 
+      duplication, followed by bioinformatics pipeline VNtyper analysis of short-read 
+      sequencing data. RESULTS: Of 172 recruited patients, 123 underwent SNaPshot 
+      analyses, which were abnormal in 5/123 patients (4%). Next, VNtyper genotyping 
+      was performed in all patients, including the five with abnormal SNaPshot 
+      analysis. VNtyper re-identified the common cytosine duplication in all five 
+      patients and revealed novel frameshift variants in two additional patients, while 
+      the analyses were normal in the remaining 116 patients. All patients carrying 
+      frameshift variants in MUC1 fulfilled ADTKD criteria and had a family history of 
+      kidney failure. A considerable inter- and intrafamilial variability of chronic 
+      kidney disease stage relative to age was observed in families with ADTKD-MUC1. 
+      CONCLUSIONS: ADTKD-MUC1 was identified in 7/123 patients (6%) in a selected 
+      cohort of kidney failure of undetermined aetiology </=50 years, and VNtyper 
+      effectively identified all pathogenic MUC1 variants.
+CI  - (c) The Author(s) 2024. Published by Oxford University Press on behalf of the ERA.
+FAU - Granhoj, Jeff
+AU  - Granhoj J
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+AD  - Department of Regional Health Research, University of Southern Denmark, Odense, 
+      Denmark.
+FAU - Lildballe, Dorte L
+AU  - Lildballe DL
+AD  - Department of Molecular Medicine, Aarhus University Hospital, Aarhus, Denmark.
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Department of Medicine, Regional Hospital of Viborg, Viborg, Denmark.
+FAU - Pedersen, Katja V
+AU  - Pedersen KV
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Tougaard, Birgitte G
+AU  - Tougaard BG
+AD  - Department of Renal Medicine, Aarhus University Hospital, Aarhus, Denmark.
+FAU - Sokol, Martin
+AU  - Sokol M
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Aagaard, Mads M
+AU  - Aagaard MM
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Petersen, Annabeth H
+AU  - Petersen AH
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+FAU - Kristensen, Tilde
+AU  - Kristensen T
+AD  - Department of Medicine, Regional Hospital of Viborg, Viborg, Denmark.
+AD  - Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.
+FAU - Djursby, Malene
+AU  - Djursby M
+AD  - Department of Clinical Genetics, Rigshospitalet, Copenhagen University Hospital, 
+      Copenhagen, Denmark.
+FAU - Birn, Henrik
+AU  - Birn H
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Department of Renal Medicine, Aarhus University Hospital, Aarhus, Denmark.
+AD  - Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.
+FAU - Rasmussen, Maria
+AU  - Rasmussen M
+AUID- ORCID: 0000-0003-1635-819X
+AD  - Department of Clinical Genetics, Lillebaelt Hospital, University Hospital of 
+      Southern Denmark, Vejle, Denmark.
+AD  - Department of Regional Health Research, University of Southern Denmark, Odense, 
+      Denmark.
+LA  - eng
+PT  - Journal Article
+DEP - 20241118
+PL  - England
+TA  - Clin Kidney J
+JT  - Clinical kidney journal
+JID - 101579321
+PMC - PMC11704794
+OTO - NOTNLM
+OT  - ADTKD
+OT  - MUC1
+OT  - SNaPshot
+OT  - VNtyper
+OT  - undetermined kidney failure
+COIS- J.G. declares research grants from Augustinus Foundation, Danish Medical 
+      Association, A. P. Moller Foundation, and PhD scholarship from Region of Southern 
+      Denmark PhD Fund and Faculty of Health Sciences University of Southern Denmark. 
+      T.K. declares research grants from the Danish Kidney Association and speakers 
+      honorarium from AstraZeneca. H.B. declares consultancy and/or advisory board 
+      participation for NOVO Nordisk, AstraZeneca, Boehringer Ingelheim, Bayer, 
+      Alexion, GSK, Vifor Pharma, Otsuka, Galapagos; speakers honorarium from 
+      AstraZeneca, Astellas, Novartis and MSD; as well as research grants from Vifor 
+      Pharma, GSK, NOVO-foundation, Karen Elise Jensen Foundation and Augustinus 
+      Foundation. M.R. declares research grants from the Danish Kidney Association, 
+      Family Hede Nielsen Foundation, Aase and Ejnar Danielsens Foundation, Augustinus 
+      Foundation and Harboe Foundation, and lecture honorarium from the board of 
+      health.
+EDAT- 2025/01/09 06:22
+MHDA- 2025/01/09 06:23
+PMCR- 2024/11/18
+CRDT- 2025/01/09 04:20
+PHST- 2024/07/05 00:00 [received]
+PHST- 2025/01/09 06:23 [medline]
+PHST- 2025/01/09 06:22 [pubmed]
+PHST- 2025/01/09 04:20 [entrez]
+PHST- 2024/11/18 00:00 [pmc-release]
+AID - sfae355 [pii]
+AID - 10.1093/ckj/sfae355 [doi]
+PST - epublish
+SO  - Clin Kidney J. 2024 Nov 18;18(1):sfae355. doi: 10.1093/ckj/sfae355. eCollection 
+      2025 Jan.
+
 PMID- 39576755
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241210
-LR  - 20241210
+LR  - 20250104
 IS  - 1520-6882 (Electronic)
 IS  - 0003-2700 (Print)
 IS  - 0003-2700 (Linking)
@@ -44,6 +330,7 @@ AU  - Brodbelt JS
 AUID- ORCID: 0000-0003-3207-0217
 AD  - Department of Chemistry, University of Texas, Austin, Texas 78712, United States.
 LA  - eng
+GR  - R35 GM139658/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 DEP - 20241122
 PL  - United States
@@ -69,14 +356,143 @@ EDAT- 2024/11/22 18:16
 MHDA- 2024/12/10 06:23
 PMCR- 2025/12/10
 CRDT- 2024/11/22 13:13
+PHST- 2025/12/10 00:00 [pmc-release]
 PHST- 2024/12/10 06:23 [medline]
 PHST- 2024/11/22 18:16 [pubmed]
 PHST- 2024/11/22 13:13 [entrez]
-PHST- 2025/12/10 00:00 [pmc-release]
 AID - 10.1021/acs.analchem.4c02011 [doi]
 PST - ppublish
 SO  - Anal Chem. 2024 Dec 10;96(49):19230-19237. doi: 10.1021/acs.analchem.4c02011. 
       Epub 2024 Nov 22.
+
+PMID- 39325540
+OWN - NLM
+STAT- In-Process
+LR  - 20250208
+IS  - 1533-3450 (Electronic)
+IS  - 1046-6673 (Print)
+IS  - 1046-6673 (Linking)
+VI  - 36
+IP  - 2
+DP  - 2025 Feb 1
+TI  - Systematic Screening of Autosomal Dominant Tubulointerstitial Kidney Disease- 
+      MUC1 27dupC Pathogenic Variant through Exome Sequencing.
+PG  - 256-263
+LID - 10.1681/ASN.0000000503 [doi]
+AB  - KEY POINTS: MUC1 is associated with autosomal dominant tubulointerstitial kidney 
+      disease, a genetic disorder progressing to kidney failure. Variations in this 
+      gene are not easily diagnosed by conventional methods due to the MUC1 
+      architecture, which contains a variable number of tandem repeats. Using dedicated 
+      bioinformatics tools, we systematically detected the presence of 27dupC most 
+      common MUC1 pathogenic variant from exome sequencing data. BACKGROUND: The MUC1 
+      gene is associated with autosomal dominant tubulointerstitial kidney disease 
+      (ADTKD), leading to CKD. Current methods of sequencing, such as exome sequencing, 
+      rarely detect MUC1 pathogenic variants because of the variable number of tandem 
+      repeats (VNTR) in MUC1 exon2. We demonstrated that combining fast read filtering 
+      with a sensitive VNTR genotyping strategy enables systematic screening of 27dupC 
+      pathogenic MUC1 variant from exome data. METHODS: We initially validated our 
+      bioinformatics pipeline in a proof-of-concept cohort incorporating exome data 
+      from 33 participants with a known MUC1 pathogenic variant identified by Snapshot 
+      PCR and confirmed by 54 MUC1-negative individuals for negative control. We then 
+      retrospectively analyzed exome sequencing data from January 2019 to October 2023 
+      from 3512 adult participants with nephropathy of unknown origin. Finally, we 
+      prospectively validated our pipeline in 825 additional participants enrolled from 
+      November 2023. RESULTS: SharkVNTyper accurately identified MUC1 variants in 32 of 
+      33 participants and excluded its presence in all the 54 negative controls in the 
+      proof-of-concept cohort (sensitivity of 97%, specificity of 100%). Integration of 
+      the Shark tool with VNTyper significantly reduced running time from 6-12 hours to 
+      5-10 minutes per sample, allowing both retrospective and prospective analyses. In 
+      the retrospective cohort, SharkVNTyper identified 23 additional positive 
+      participants who were not suspected clinically and had been missed in the initial 
+      exome analysis; 18 of these participants were confirmed as carrying the MUC1 
+      27dupC mutation by low-throughput Snapshot PCR. In the prospective cohort of 825 
+      participants with CKD, systematic screening discovered 13 positive participants, 
+      with 12 confirmed by PCR. Overall, of 63 participants (1.4% of 4653) with 
+      molecularly confirmed ADTKD-MUC1, comprehensive diagnoses and descriptions of the 
+      disease were available for 24 participants. The median age of kidney failure was 
+      50 years, 38% exhibited bilateral multiple kidney cysts, 8% had early-onset gout, 
+      and 58% had arterial hypertension. CONCLUSIONS: SharkVNTyper enabled the analysis 
+      of highly repeated regions, such as the MUC1 VNTR, and facilitated the systematic 
+      screening of ADTKD-MUC1 from exome data, fostering 27dupC variation 
+      identification. PODCAST: This article contains a podcast at 
+      https://dts.podtrac.com/redirect.mp3/www.asn-online.org/media/podcast/JASN/2024_11_15_KTS_November2024.mp3
+FAU - Bensouna, Ilias
+AU  - Bensouna I
+AUID- ORCID: 0009-0006-4788-7974
+AD  - Soins Intensifs Nephrologiques et Rein Aigu (SINRA), Nephrology Department, Tenon 
+      Hospital, Assistance Publique - Hopitaux de Paris, Paris, France.
+AD  - Inserm UMR_S1155, Paris, France.
+FAU - Robert, Thomas
+AU  - Robert T
+AUID- ORCID: 0000-0002-7580-0913
+AD  - Nephrology and Kidney Transplantation Center, Assistance publique-Hopitaux de 
+      Marseille, La Conception Hospital, Marseille, France.
+AD  - Aix Marseille Univ, INSERM, INRAE, C2VN, Marseille, France.
+FAU - Vanhoye, Xavier
+AU  - Vanhoye X
+AUID- ORCID: 0000-0001-8875-5851
+AD  - Eurofins Biomnis Laboratory, Lyon, France.
+FAU - Dancer, Marine
+AU  - Dancer M
+AD  - Eurofins Biomnis Laboratory, Lyon, France.
+FAU - Raymond, Laure
+AU  - Raymond L
+AD  - Eurofins Biomnis Laboratory, Lyon, France.
+FAU - Delaugere, Pierre
+AU  - Delaugere P
+AUID- ORCID: 0009-0002-4943-2106
+AD  - ISCD, Maison des Modelisations Ingenieries et Technologies, Sorbonne University, 
+      Paris, France.
+FAU - Hilbert, Pascale
+AU  - Hilbert P
+AUID- ORCID: 0000-0003-4540-4538
+AD  - Center of Human Genetics, Institute of Pathology and Genetics, Gosselies, 
+      Belgium.
+FAU - Richard, Hugues
+AU  - Richard H
+AUID- ORCID: 0000-0001-7776-1340
+AD  - UMR_7238 - Biologie Computationnelle et Quantitative, Sorbonne University, Paris, 
+      France.
+AD  - Genome Competence Center (MF1) - Robert Koch Institute, Berlin, Germany.
+FAU - Mesnard, Laurent
+AU  - Mesnard L
+AUID- ORCID: 0000-0002-0339-3757
+AD  - Soins Intensifs Nephrologiques et Rein Aigu (SINRA), Nephrology Department, Tenon 
+      Hospital, Assistance Publique - Hopitaux de Paris, Paris, France.
+AD  - Inserm UMR_S1155, Paris, France.
+AD  - Centre Maladie Rare MAHREA, Tenon Hospital, Assistance Publique - Hopitaux de 
+      Paris, Paris, France.
+AD  - Medicine Faculty, Paris Sorbonne University, Paris, France.
+LA  - eng
+GR  - Assistance Publique - HA pitaux de Paris/
+PT  - Journal Article
+DEP - 20240926
+PL  - United States
+TA  - J Am Soc Nephrol
+JT  - Journal of the American Society of Nephrology : JASN
+JID - 9013836
+SB  - IM
+CIN - doi: 10.1681/ASN.0000000574
+CIN - doi: 10.1681/ASN.0000000575
+PMC - PMC11801747
+COIS- Disclosure forms, as provided by each author, are available with the online 
+      version of the article at http://links.lww.com/JSN/E864.
+EDAT- 2024/09/26 19:03
+MHDA- 2024/09/26 19:03
+PMCR- 2026/02/01
+CRDT- 2024/09/26 12:03
+PHST- 2024/03/26 00:00 [received]
+PHST- 2024/09/20 00:00 [accepted]
+PHST- 2026/02/01 00:00 [pmc-release]
+PHST- 2024/09/26 19:03 [pubmed]
+PHST- 2024/09/26 19:03 [medline]
+PHST- 2024/09/26 12:03 [entrez]
+AID - 00001751-990000000-00426 [pii]
+AID - JASN-2024-000424 [pii]
+AID - 10.1681/ASN.0000000503 [doi]
+PST - ppublish
+SO  - J Am Soc Nephrol. 2025 Feb 1;36(2):256-263. doi: 10.1681/ASN.0000000503. Epub 
+      2024 Sep 26.
 
 PMID- 39314239
 OWN - NLM
@@ -169,13 +585,17 @@ SO  - iScience. 2024 Aug 31;27(9):110866. doi: 10.1016/j.isci.2024.110866. eColl
 
 PMID- 38605207
 OWN - NLM
-STAT- Publisher
-LR  - 20240411
+STAT- MEDLINE
+DCOM- 20250322
+LR  - 20250322
 IS  - 1573-4927 (Electronic)
 IS  - 0006-2928 (Linking)
-DP  - 2024 Apr 12
+VI  - 63
+IP  - 2
+DP  - 2025 Apr
 TI  - Analysis of Molecular Genetic Variants of Lgals4 in Esophageal Cancer: A 
       Preliminary Report.
+PG  - 1699-1718
 LID - 10.1007/s10528-024-10780-y [doi]
 AB  - Esophageal cancer is the eighth most common cancer worldwide and fourth most 
       common in developing countries. Altered glycosylation pattern of cell membrane 
@@ -232,25 +652,41 @@ PL  - United States
 TA  - Biochem Genet
 JT  - Biochemical genetics
 JID - 0126611
+RN  - 0 (Galectin 4)
 SB  - IM
+MH  - Humans
+MH  - *Esophageal Neoplasms/genetics
+MH  - *Polymorphism, Single Nucleotide
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - Case-Control Studies
+MH  - *Galectin 4/genetics
+MH  - *Genetic Predisposition to Disease
+MH  - Aged
+MH  - Haplotypes
+MH  - Linkage Disequilibrium
+MH  - Genotype
 OTO - NOTNLM
 OT  - Esophageal squamous cell carcinoma
 OT  - Galectin-4
 OT  - Haplotype
 OT  - MUC1
 OT  - SNP
+COIS- Declarations. Competing interests: The authors declare no competing interests.
 EDAT- 2024/04/12 00:43
-MHDA- 2024/04/12 00:43
+MHDA- 2025/03/23 16:50
 CRDT- 2024/04/11 23:28
 PHST- 2024/01/20 00:00 [received]
 PHST- 2024/03/11 00:00 [accepted]
-PHST- 2024/04/12 00:43 [medline]
+PHST- 2025/03/23 16:50 [medline]
 PHST- 2024/04/12 00:43 [pubmed]
 PHST- 2024/04/11 23:28 [entrez]
 AID - 10.1007/s10528-024-10780-y [pii]
 AID - 10.1007/s10528-024-10780-y [doi]
-PST - aheadofprint
-SO  - Biochem Genet. 2024 Apr 12. doi: 10.1007/s10528-024-10780-y.
+PST - ppublish
+SO  - Biochem Genet. 2025 Apr;63(2):1699-1718. doi: 10.1007/s10528-024-10780-y. Epub 
+      2024 Apr 12.
 
 PMID- 37547453
 OWN - NLM
@@ -2839,7 +3275,7 @@ PMID- 27036738
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170529
-LR  - 20240601
+LR  - 20250112
 IS  - 1533-3450 (Electronic)
 IS  - 1046-6673 (Print)
 IS  - 1046-6673 (Linking)
@@ -10820,7 +11256,7 @@ AU  - Hilgers J
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Netherlands
+PL  - United States
 TA  - Tumour Biol
 JT  - Tumour biology : the journal of the International Society for Oncodevelopmental 
       Biology and Medicine
